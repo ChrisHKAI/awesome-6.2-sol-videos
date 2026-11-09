@@ -8,20 +8,20 @@
     "timezone": "Asia/Shanghai",
     "seed_collected_at": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
     "seed_baseline_collected_at": "2026-11-09 08:40:28 Asia/Shanghai(UTC+8)",
-    "media_verified_at": "2026-11-09 09:15:08 Asia/Shanghai(UTC+8)",
-    "seed_post_count": 91,
+    "media_verified_at": "2026-11-09 14:14:28 Asia/Shanghai(UTC+8)",
+    "seed_post_count": 100,
     "seed_test_flag_count": 71,
-    "gallery_count": 34,
-    "gallery_in_seed_count": 33,
+    "gallery_count": 43,
+    "gallery_in_seed_count": 42,
     "gallery_resolved_original_count": 1,
-    "prompt_file_count": 5,
+    "prompt_file_count": 6,
     "prompt_partial_count": 3,
     "context_count": 57,
     "excluded_count": 1,
     "category_counts": {
-      "3d": 15,
-      "character": 9,
-      "comparison": 10
+      "3d": 19,
+      "character": 11,
+      "comparison": 13
     },
     "category_labels": {
       "3d": "Three.js 與 3D 場景",
@@ -30,7 +30,7 @@
     },
     "reference_repo": "https://github.com/yihui-dev/awesome-opus5-5-videos",
     "reference_license": "MIT",
-    "completeness": "高訊號精選，不是全站完備。互動數字是種子蒐集當下的公開計數。",
+    "completeness": "高訊號精選，不是全站完備。互動數字是種子蒐集當下的公開計數。2026-11-09 下午（Asia/Shanghai）語料在早晨 91 篇種子之外延伸；下午新增條目的互動數字是另一次快照。",
     "extra_checked_urls": [
       "https://github.com/yihui-dev/awesome-opus5-5-videos",
       "https://x.com/Ananth7e/status/2119473497504428334",
@@ -851,6 +851,213 @@
       }
     },
     {
+      "id": "2119653135392083986",
+      "slug": "zhongsan3-083986",
+      "author": "zhongsan3",
+      "author_url": "https://x.com/zhongsan3",
+      "post_url": "https://x.com/zhongsan3/status/2119653135392083986",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "竹林",
+      "summary": "作者說灰度到 gpt-6.2 sol，約 10 分鐘生成一座竹林，並認為比 gpt-6.1 sol 強很多。預覽是可走動的竹林場景，標題 The Bamboo Sanctuary，有木橋和燈籠。同帖另一張小圖是不聯網詢問 Claude Fable 5 發布日的問答，不能確認模型，也不是這座竹林。提示詞未貼出。",
+      "created_at": "2026-11-09 12:47:43 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6.1 Sol"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/media/HWqFOolWcAAvV0p.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 840,
+          "height": 240,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWqFG-PXIAAY3rR.png?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1882,
+          "height": 885,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWqFOolWcAAvV0p.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "相對 6.1 更強是作者自述，未獨立驗證，畫面裡沒有並排。",
+        "提示詞未公開。",
+        "同帖的 Fable 問答不能確認模型。"
+      ],
+      "text": "灰到 gpt-6.2 sol 了。10分钟生成了一个竹林。确认比 gpt-6.1 sol 要强很多",
+      "metrics": {
+        "views": 69,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
+      "id": "2119658740198817846",
+      "slug": "3lhftf-817846",
+      "author": "3lhftf",
+      "author_url": "https://x.com/3lhftf",
+      "post_url": "https://x.com/3lhftf/status/2119658740198817846",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "海邊城堡與線框屋頂",
+      "summary": "作者說 GPT-6.2 Sol 用 Three.js 做了一座城堡，並給海面自己的鏡頭；懸崖、磚牆和屋頂由代碼生成，屋頂會抬成線框再落回，並出現在即時反射裡。已看的預覽幀是海中岩島上的城堡，畫面上有 THREE.JS / REAL-TIME ENVIRONMENT 和標題 Ashwater Keep，這一幀沒有停在線框屋頂。提示詞未貼出。",
+      "created_at": "2026-11-09 13:09:59 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119658162303451136/img/cyah0m3nYIpEou74.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 18.0,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119658162303451136/img/cyah0m3nYIpEou74.jpg"
+        }
+      ],
+      "caveats": [
+        "作者自述為 GPT-6.2 Sol；官方未確認。",
+        "提示詞未公開。",
+        "線框屋頂是帖文描述；這張縮圖沒有停在那一幀。"
+      ],
+      "text": "GPT-6.2 Sol built a castle in Three.js and gave the sea its own camera.\n\nThe cliffs, brickwork, and roofs are generated in code. Watch the roofs lift off in wireframe, snap back into place, and show up again in the real-time reflection.",
+      "metrics": {
+        "views": 81,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 1,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
+      "id": "2119666543864782937",
+      "slug": "sahilpanhotra-782937",
+      "author": "SahilPanhotra",
+      "author_url": "https://x.com/SahilPanhotra",
+      "post_url": "https://x.com/SahilPanhotra/status/2119666543864782937",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "錦鯉庭院",
+      "summary": "作者說這不是 Blender，而是單個 HTML 裡用 Three.js 做的整座 3D 錦鯉庭院，並稱這是自己的 Koi Courtyard 測試裡到目前最好的一次。預覽幀標題就是 Koi Courtyard：石岸、淺水、數尾錦鯉，底部有 Feed 等按鈕。帖文沒有貼出可逐字核對的生成提示詞。他引用自己更早的 Gemini 錦鯉測試只是對照語境，那支不是這支影片。這也和他畫廊裡的孔雀騎 BMX 不是同一支媒體。",
+      "created_at": "2026-11-09 13:41:00 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js",
+        "單檔 HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119648453227884544/img/1NbnR5oMTujhxuFU.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 30.058,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119648453227884544/img/1NbnR5oMTujhxuFU.jpg"
+        }
+      ],
+      "caveats": [
+        "作者自述為 GPT-6.2 Sol；官方未確認。",
+        "帖文只稱 Koi Courtyard test，沒有逐字提示詞。"
+      ],
+      "text": "HOLY SHIT. GPT 6.2 Sol 😭\n\nthis is NOT Blender.\n\nit's an entire 3D Koi Courtyard built with Three.js in a single HTML file.\n\njust ran my Koi Courtyard test and this is easily the best result I've gotten so far.\n\nthe water, lighting, reflections, and overall atmosphere look ridiculously good.",
+      "metrics": {
+        "views": 308,
+        "likes": 13,
+        "bookmarks": 3,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 6,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
+      "id": "2119668859796124087",
+      "slug": "bei351009016-124087",
+      "author": "bei351009016",
+      "author_url": "https://x.com/bei351009016",
+      "post_url": "https://x.com/bei351009016/status/2119668859796124087",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "龍捲風摧毀停車場",
+      "summary": "作者說 GPT-6.2 Sol 加強了前端，並稱這是自己測過最好的龍捲風摧毀停車場。預覽幀是名為 TWISTER LOT 的等距場景：停車場被風捲起，右側有風暴控制面板。他另寫 Max 思考約 32 分鐘，約消耗 Plus 5 小時額度的 14%。提示詞沒有貼出。這和同一作者的雪原小屋不是同一支媒體。",
+      "created_at": "2026-11-09 13:50:12 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "前端"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119668021623201792/img/l60jnjNKAcvp6khv.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 12.566,
+          "width": 1918,
+          "height": 908,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119668021623201792/img/l60jnjNKAcvp6khv.jpg"
+        }
+      ],
+      "caveats": [
+        "作者自述為 GPT-6.2 Sol；官方未確認。",
+        "提示詞未公開。",
+        "耗時和額度是作者自報，未獨立驗證。"
+      ],
+      "text": "GPT这次真的不不一样了，\n\nGPT 6.2 Sol明显是专门强化了前端的能力，\n\n这应该是我目前测试过最好的龙卷风摧毁停车场效果，\n\n强的不止是一点点啊！！！\n\n并且他的额度消耗似乎也有优化，Max思考等级下，耗时32分钟，\n\n消耗Plus5小时额度的14%，开通Pro刻不容缓！",
+      "metrics": {
+        "views": 249,
+        "likes": 4,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 4,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
       "id": "2119471963790065987",
       "slug": "ananth7e-065987",
       "author": "Ananth7e",
@@ -1289,6 +1496,109 @@
         "replies": 1,
         "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
         "source": "seed"
+      }
+    },
+    {
+      "id": "2119637324166582349",
+      "slug": "daodao166888-582349",
+      "author": "daodao166888",
+      "author_url": "https://x.com/daodao166888",
+      "post_url": "https://x.com/daodao166888/status/2119637324166582349",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "繪製馬斯克",
+      "summary": "帖文是「GPT-6.2 Sol 绘制 马斯克？」。預覽停在 Portrait study 的 Block-in：畫布幾乎是空白，只在上方有一筆棕色，右側參考照是 Elon Musk。約 31 秒影片的完成畫面不在這張縮圖裡。提示詞未貼出。這和 @Ananth7e 畫 Sam Altman 不是同一支媒體。",
+      "created_at": "2026-11-09 11:44:53 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119635776476676096/img/i5LVLX8VuaMPXFDk.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 30.966,
+          "width": 1312,
+          "height": 1200,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119635776476676096/img/i5LVLX8VuaMPXFDk.jpg"
+        }
+      ],
+      "caveats": [
+        "帖文帶問號；仍是作者把畫面歸到 GPT-6.2 Sol。",
+        "預覽是開始畫面，不是完成品。",
+        "提示詞未公開。",
+        "官方未確認。"
+      ],
+      "text": "GPT-6.2 Sol 绘制 马斯克？",
+      "metrics": {
+        "views": 798,
+        "likes": 7,
+        "bookmarks": 4,
+        "reposts": 0,
+        "quotes": 2,
+        "replies": 2,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
+      "id": "2119651656837324994",
+      "slug": "ai-screening-324994",
+      "author": "AI_Screening",
+      "author_url": "https://x.com/AI_Screening",
+      "post_url": "https://x.com/AI_Screening/status/2119651656837324994",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "草原奔跑的獅子",
+      "summary": "作者說 Codex 裡從 GPT-6.1 sol 路由到 GPT-6.2 sol，輸出更好，但仍然認為 Opus 5.5 遠強於 GPT-6.1 sol。帖文沒有寫畫面主題。已看的預覽幀是草原上側向奔跑的獅子，有金合歡和遠山，不是並排對照。提示詞未貼出。",
+      "created_at": "2026-11-09 12:41:50 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6.1 Sol",
+        "Claude Opus 5.5"
+      ],
+      "tech": [
+        "Codex"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119651559600766976/img/JhBBlvFDXXiFNEmw.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10.916,
+          "width": 2160,
+          "height": 1202,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119651559600766976/img/JhBBlvFDXXiFNEmw.jpg"
+        }
+      ],
+      "caveats": [
+        "作者仍稱 Opus 5.5 更強；這是用戶側判斷，縮圖裡沒有對照組。",
+        "路由和模型歸屬是用戶側說法。",
+        "提示詞未公開。",
+        "官方未確認。"
+      ],
+      "text": "GPT-6.2 sol in codex routed from GPT-6.1 sol\n\n>The output looks good\n>Definitely way better than the GPT-6.1 sol.\n>But still Opus 5.5 >>>>> GPT-6.1 sol",
+      "metrics": {
+        "views": 475,
+        "likes": 7,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
       }
     },
     {
@@ -1806,6 +2116,183 @@
         "replies": 2,
         "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
         "source": "seed"
+      }
+    },
+    {
+      "id": "2119646094384836876",
+      "slug": "maryansani72-836876",
+      "author": "MaryanSani72",
+      "author_url": "https://x.com/MaryanSani72",
+      "post_url": "https://x.com/MaryanSani72/status/2119646094384836876",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "Minecraft 科隆大教堂",
+      "summary": "作者說 6.2 sol 開始灰測，前端比 6.1 sol 強，並貼出同一句中文提示詞。他標圖一是 6.1 sol、圖二是 6.2 sol。圖一是平台上的方塊教堂，標題「石与光」；本庫預覽用圖二，標題「科隆大教堂」，周圍有一整片樹林。第三張是 Fable 問答，不能確認模型。蒸餾或比肩 Astra 是作者推測。",
+      "created_at": "2026-11-09 12:19:44 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6.1 Sol"
+      ],
+      "tech": [
+        "HTML",
+        "3D",
+        "Minecraft 風格"
+      ],
+      "prompt": "做一个html网页，镜头环绕展示一个在minecraft中建造的3d科隆大教堂模型，要求画质极高，极为美观",
+      "prompt_partial": false,
+      "prompt_note": "帖文用中文引號包住這一句，此處去掉引號，文字不改。",
+      "prompt_file": "prompts/maryansani72-836876.md",
+      "preview_url": "https://pbs.twimg.com/media/HWp-rD7bsAATWk2.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1220,
+          "height": 2712,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWp-q2qbAAAdlRZ.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1220,
+          "height": 2712,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWp-rD7bsAATWk2.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 850,
+          "height": 268,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWp-rrcbsAAy0NI.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "圖一、圖二的模型標籤來自作者，不是本庫復現。",
+        "蒸餾 Astra、比肩 6 Astra 是作者推測。",
+        "官方未確認。",
+        "同帖的 Fable 問答不能確認模型。"
+      ],
+      "text": "6.2sol开始灰测了，感觉比6.1 sol的前端强不少，疑似要狙击A/。\n图一是6.1 sol，图二是6.2 sol。\n提示词是“做一个html网页，镜头环绕展示一个在minecraft中建造的3d科隆大教堂模型，要求画质极高，极为美观”。 \n我观察到很明显的一点是，6.1系列从Terra到sol无论开什么档位都是一小块空域，6 Astra才会多添加一圈周围建筑，而且6.1或者6系列模型的建筑，顶多算是方块建筑，其中的方块根本没有minecraft的风格。 \n而6.2 sol不仅会直接生成一整块大陆，其中的方块也有minecraft的风格，我感觉是直接蒸馏6.2 Astra的，可能真的可以比肩6 Astra。",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
+      "id": "2119664137685045606",
+      "slug": "aurora0x3f-045606",
+      "author": "Aurora0x3f",
+      "author_url": "https://x.com/Aurora0x3f",
+      "post_url": "https://x.com/Aurora0x3f/status/2119664137685045606",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "寶塔測試",
+      "summary": "作者用寶塔測試比較 gpt 6.2 sol 和 Opus 5.5，並寫自己還是更喜歡 Opus 5.5，但覺得 Sol 改進很多、也快很多。預覽上半標 gpt 6.2 sol，體素庭園標題 Petalfall；下半標 Opus 5.5，標題 Sakura Pagoda。提示詞未貼出。",
+      "created_at": "2026-11-09 13:31:26 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Claude Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119663168578637824/img/gCkfEcOb3QI8bwQe.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 20.0,
+          "width": 960,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119663168578637824/img/gCkfEcOb3QI8bwQe.jpg"
+        }
+      ],
+      "caveats": [
+        "作者更偏好 Opus 一側；對照標籤來自作者，不是本庫復現。",
+        "官方未確認。",
+        "提示詞未公開。"
+      ],
+      "text": "gpt 6.2 sol vs Opus 5.5 宝塔测试\n\n其实我还是更喜欢 Opus 5.5 做的\n\n但是 gpt 6.2 Sol 真的改进了很多了，而且速度快了很多",
+      "metrics": {
+        "views": 515,
+        "likes": 7,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 6,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
+      }
+    },
+    {
+      "id": "2119665734909632591",
+      "slug": "dagehahafo-632591",
+      "author": "dagehahafo",
+      "author_url": "https://x.com/dagehahafo",
+      "post_url": "https://x.com/dagehahafo/status/2119665734909632591",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "水火元素打架",
+      "summary": "作者把 GPT-6.2 Sol Max 和 Claude Opus 5.5 Extra high 放在同一支影片裡比「水火元素打架」。預覽上半標 GPT-6.2 Sol (Max)，山谷裡有青色水元素和橙紅火元素；下半標 Claude Opus 5.5 (Extra high)，場景更空。正文寫 Sol 用時 43 分 42 秒、不到 Pro 100 週額度的 1%，Opus 用時 1 小時 43 分、用掉 Pro 的 5 小時額度。同帖另一張圖是 Fable 問答，介面仍標 GPT-6.1 Sol Max，不能用來確認模型。提示詞未貼出。",
+      "created_at": "2026-11-09 13:37:47 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Claude Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119661767920087040/img/tpiyIQsFZnOpaA17.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 43.0,
+          "width": 1920,
+          "height": 2176,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119661767920087040/img/tpiyIQsFZnOpaA17.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1567,
+          "height": 1860,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWqNxfbbcAAJ0mU.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "對照標籤來自作者，不是本庫復現。",
+        "時間和額度是作者自報，未獨立驗證。",
+        "提示詞未公開。",
+        "同帖的 Fable 問答截圖不是這支對照，也不能確認模型。"
+      ],
+      "text": "GPT-6.2 Sol vs Claude Opus 5.5 一轮直出水火元素打架\n\nGPT-6.2 Sol Max：用时43分42秒，Pro100周额度不到1%。\nClaude Opus 5.5 Extra high：用时1小时43分，Pro的5小时额度。\n\n怎么感觉被骗了",
+      "metrics": {
+        "views": 27,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 ~14:05 Asia/Shanghai(UTC+8)",
+        "source": "afternoon_public_snapshot"
       }
     }
   ],
