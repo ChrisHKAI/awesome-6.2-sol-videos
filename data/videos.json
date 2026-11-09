@@ -1,0 +1,4025 @@
+{
+  "meta": {
+    "title": "Awesome 6.2 Sol Videos",
+    "model_name": "GPT-6.2 Sol",
+    "model_status": "unconfirmed_community_name",
+    "official_release_confirmed": false,
+    "independently_reproduced": false,
+    "timezone": "Asia/Shanghai",
+    "seed_collected_at": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+    "seed_baseline_collected_at": "2026-11-09 08:40:28 Asia/Shanghai(UTC+8)",
+    "media_verified_at": "2026-11-09 09:15:08 Asia/Shanghai(UTC+8)",
+    "seed_post_count": 91,
+    "seed_test_flag_count": 71,
+    "gallery_count": 34,
+    "gallery_in_seed_count": 33,
+    "gallery_resolved_original_count": 1,
+    "prompt_file_count": 5,
+    "prompt_partial_count": 3,
+    "context_count": 57,
+    "excluded_count": 1,
+    "category_counts": {
+      "3d": 15,
+      "character": 9,
+      "comparison": 10
+    },
+    "category_labels": {
+      "3d": "Three.js 與 3D 場景",
+      "character": "角色、動態與繪像",
+      "comparison": "對照"
+    },
+    "reference_repo": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "reference_license": "MIT",
+    "completeness": "高訊號精選，不是全站完備。互動數字是種子蒐集當下的公開計數。",
+    "extra_checked_urls": [
+      "https://github.com/yihui-dev/awesome-opus5-5-videos",
+      "https://x.com/Ananth7e/status/2119473497504428334",
+      "https://x.com/JangXiin/status/2119412773293797526",
+      "https://form-before-fame-3d.vvvvvvvvvashhh.chatgpt.site"
+    ]
+  },
+  "gallery": [
+    {
+      "id": "2119371334878744648",
+      "slug": "tokengremlin-744648",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119371334878744648",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "雲上宮殿",
+      "summary": "作者說部分 ChatGPT 使用者已經看到 GPT-6.2 Sol，並貼出單次提示、單個 HTML 的 Three.js 場景。公開預覽幀是一座浮在雲上的宮殿群，帶瀑布與熱氣球。提示詞正文沒有貼出。",
+      "created_at": "2026-11-08 18:07:56 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js",
+        "單檔 HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119371292654653440/img/dmoCx4RO8lnEQtbn.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.033,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119371292654653440/img/dmoCx4RO8lnEQtbn.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 772,
+          "height": 425,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmE_eOW0AENJdI.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 843,
+          "height": 166,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmE_waWQAArRjG.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "作者把畫面歸到尚未被官方確認的 GPT-6.2 Sol。"
+      ],
+      "text": "GPT-6.2 Sol is already showing up for some ChatGPT users, and just look at what it's creating.\n\nThese aren't screenshots from a game. They're Three.js scenes generated from a single prompt, with everything packed into ONE HTML file.\n\nI've been waiting to see what Sol could do. And now I think we're finally going to see a worthy competitor to Opus 5.5 for Plus users.",
+      "metrics": {
+        "views": 259787,
+        "likes": 1144,
+        "bookmarks": 255,
+        "reposts": 48,
+        "quotes": 51,
+        "replies": 98,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119395930805879165",
+      "slug": "tokengremlin-879165",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119395930805879165",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "單次生成的黑洞",
+      "summary": "作者稱自己被路由到 GPT-6.2 Sol，用 Three.js、單個 HTML、一次生成做出黑洞，並說到當時的測試勝過 Opus 5.5。預覽幀是帶吸積盤的黑洞。這句比較是作者判斷，本庫沒有復現。",
+      "created_at": "2026-11-08 19:45:41 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [
+        "Three.js",
+        "單檔 HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119394874591944704/img/F0D_beICGEBB-esh.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.566,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119394874591944704/img/F0D_beICGEBB-esh.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1726,
+          "height": 1484,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXHGWQAAuobC.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1441,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXZqWoAATpMr.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "「勝過 Opus 5.5」是作者自述，不是並排對照片。"
+      ],
+      "text": "I'm being routed to GPT-6.2 Sol, and holy shit, this model is absolutely insane at design and 3D.\n\nIt's actually outperforming Opus 5.5 in my one-shot tests so far.\n\nThis is easily the best AI-generated black hole I've seen yet.\n\n- Generated in one shot\n- Built with Three.js\n- Everything inside a single HTML file\n\nI've attached the results as proof.",
+      "metrics": {
+        "views": 229629,
+        "likes": 881,
+        "bookmarks": 188,
+        "reposts": 37,
+        "quotes": 39,
+        "replies": 113,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119409785900552548",
+      "slug": "tokengremlin-552548",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119409785900552548",
+      "in_seed": false,
+      "surfaced_via": {
+        "id": "2119578715399327947",
+        "author": "cfenghub",
+        "url": "https://x.com/cfenghub/status/2119578715399327947"
+      },
+      "category": "3d",
+      "title": "櫻花村莊",
+      "summary": "作者稱整座村莊用 Three.js 寫進單個 HTML，沒有 Blender、沒有外部 3D 素材，並說它比 GPT-6 Astra 好而且更便宜。預覽幀是河流、農田、灰瓦房和櫻花。提示詞沒有貼出。這則原帖不在 91 篇種子裡；種子裡的 @cfenghub 轉述嵌的是同一支影片，所以畫廊改記原作者。",
+      "created_at": "2026-11-08 20:40:44 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6 Astra"
+      ],
+      "tech": [
+        "Three.js",
+        "單檔 HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119409755286384640/img/FUyYzAl2XbSN0HDB.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.366,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119409755286384640/img/FUyYzAl2XbSN0HDB.jpg"
+        }
+      ],
+      "caveats": [
+        "和 Astra 的高下是作者自述。",
+        "原帖由轉載核對還原，不在種子 91 篇內。"
+      ],
+      "text": "I never thought I'd live to see GPT-6.2 Sol being SO MUCH BETTER than GPT-6 Astra while being significantly cheaper. This is absolutely incredible. OpenAI is back.\n\nThis entire village was built with Three.js, packed into a single HTML file. No Blender, no external 3D assets. Just code.\n\nThe cherry blossoms, the river, the whole scene shifting from daylight to glowing windows at night. Look at this.",
+      "metrics": {
+        "views": 104507,
+        "likes": 1616,
+        "bookmarks": 525,
+        "reposts": 60,
+        "quotes": 26,
+        "replies": 121,
+        "snapshot": "2026-11-09 09:15:08 Asia/Shanghai(UTC+8)",
+        "source": "fxtwitter_at_verification"
+      }
+    },
+    {
+      "id": "2119543483048268179",
+      "slug": "kimmonismus-268179",
+      "author": "kimmonismus",
+      "author_url": "https://x.com/kimmonismus",
+      "post_url": "https://x.com/kimmonismus/status/2119543483048268179",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "鵜鶘，以及辛普森街景",
+      "summary": "作者說 6.1 Sol 已把自己路由到更新的模型（他寫成 GPT-6.2 Sol？），並做了兩件東西：742 Evergreen Terrace 的 Three.js 互動模型，以及一張鵜鶘。預覽用已核對的鵜鶘插畫。5 秒影片未逐幀看完。同帖第一張圖是 Tony Awards 檢測截圖，該題有反證，不能確認模型。",
+      "created_at": "2026-11-09 05:32:00 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/media/HWoXoNBWAAAOdSM.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1199,
+          "height": 474,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoXienXMAA2UHI.png?name=large"
+        },
+        {
+          "type": "video",
+          "duration_seconds": 5,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119532301629444096/img/VzOUzbjnqDueh6NJ.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 2042,
+          "height": 1508,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoXoNBWAAAOdSM.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "作者自己在模型名稱後面加了問號。",
+        "Tony 題的截圖不是這件作品。"
+      ],
+      "text": "I can confirm that GPT-6.1 Sol has already routed me to the more current model (GPT-6.2 Sol?). Two testings: \n\n-(Simpson) 742 Evergreen Terrace as an interactive Three.js diorama\n-Pelican",
+      "metrics": {
+        "views": 33915,
+        "likes": 401,
+        "bookmarks": 59,
+        "reposts": 12,
+        "quotes": 6,
+        "replies": 42,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119507514459144677",
+      "slug": "khazix0918-144677",
+      "author": "Khazix0918",
+      "author_url": "https://x.com/Khazix0918",
+      "post_url": "https://x.com/Khazix0918/status/2119507514459144677",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "時間的盡頭",
+      "summary": "作者稱灰度到 GPT-6.2 Sol 後，用一段完整的 Three.js 提示詞做了《時間的盡頭》。預覽幀是題為「時間的盡頭」的互動頁，中央有環形結構和黑洞狀開口。提示詞按帖文原文收錄。",
+      "created_at": "2026-11-09 03:09:04 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": "请使用 Three.js 创作一个主题为《时间的尽头》的 3D 交互式网页。\n充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、粒子、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。\n不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。",
+      "prompt_partial": false,
+      "prompt_note": "帖文用中文引號包住這整段，此處去掉引號，文字不改。",
+      "prompt_file": "prompts/khazix0918-144677.md",
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119507467990413312/img/dCMmCV5ohy_PaqTY.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 18,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119507467990413312/img/dCMmCV5ohy_PaqTY.jpg"
+        }
+      ],
+      "caveats": [],
+      "text": "灰度路由到了GPT-6.2 Sol，简单测了一下，这个审美，强到爆炸，并且防御性问题有很不错的改善，这个模型有点香啊！！！\n感觉要提前开香槟恭喜OpenAI回归了？？？\n\nPrompt：“请使用 Three.js 创作一个主题为《时间的尽头》的 3D 交互式网页。\n充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、粒子、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。\n不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。”",
+      "metrics": {
+        "views": 33633,
+        "likes": 242,
+        "bookmarks": 163,
+        "reposts": 20,
+        "quotes": 5,
+        "replies": 49,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119437812604838342",
+      "slug": "mr-salio-838342",
+      "author": "Mr_Salio",
+      "author_url": "https://x.com/Mr_Salio",
+      "post_url": "https://x.com/Mr_Salio/status/2119437812604838342",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "浮島與高塔",
+      "summary": "作者標成 GPT-6.2 Sol 的第一件輸出，說行星、雲和神廟環境都由代碼生成、沒有外部素材，並認為明顯好過 6.1 Sol。預覽幀是浮島、瀑布和一座細塔，不是完成後的靜態海報說明。提示詞未貼出。",
+      "created_at": "2026-11-08 22:32:06 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6.1 Sol"
+      ],
+      "tech": [
+        "純代碼"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119437684120707072/img/hWdo-zoXb1i1TRWG.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 50.7,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119437684120707072/img/hWdo-zoXb1i1TRWG.jpg"
+        }
+      ],
+      "caveats": [
+        "和 6.1 的比較是作者自述，畫面裡沒有並排。"
+      ],
+      "text": "🚨 GPT-6.2 Sol my FIRST OUTPUT\n\nThis is already looking like a massive upgrade over GPT-6.1 Sol The visual quality is noticeably better\n\nThe planet clouds temple environment, and even the rendering  all built from scratch No external assets\n\nOpenAi is cooking",
+      "metrics": {
+        "views": 28629,
+        "likes": 239,
+        "bookmarks": 23,
+        "reposts": 7,
+        "quotes": 4,
+        "replies": 29,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119464940964593751",
+      "slug": "mr-salio-593751",
+      "author": "Mr_Salio",
+      "author_url": "https://x.com/Mr_Salio",
+      "post_url": "https://x.com/Mr_Salio/status/2119464940964593751",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "月下燈塔與海面",
+      "summary": "同一作者的第二件輸出。正文強調海浪、反光、雲和夜到日落的過渡。公開預覽幀是夜空、滿月、石拱和燈塔，近岸水面帶青色反光。提示詞未貼出。",
+      "created_at": "2026-11-09 00:19:54 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "純代碼"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119464564764913664/img/_LzQaPJ_Lq4zHDW3.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 30,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119464564764913664/img/_LzQaPJ_Lq4zHDW3.jpg"
+        }
+      ],
+      "caveats": [],
+      "text": "🚨 GPT-6.2 Sol Second OUTPUT\n\nThis is actually insane good\n\nLook at the ocean waves realistic reflections moving clouds lighting and the transition from night to sunset and The Sound\n\nThe entire environment feels alive \n\nI'm genuinely impressed",
+      "metrics": {
+        "views": 9948,
+        "likes": 171,
+        "bookmarks": 20,
+        "reposts": 6,
+        "quotes": 0,
+        "replies": 13,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119421717290381531",
+      "slug": "justingorya-381531",
+      "author": "JustinGorya",
+      "author_url": "https://x.com/JustinGorya",
+      "post_url": "https://x.com/JustinGorya/status/2119421717290381531",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "AK-47 渲染",
+      "summary": "作者比較 ChatGPT Work 上的 6.1 Max 和 API 上的 6.1，懷疑有人已被路由到 6.2，並說這把 AK-47 花了約 23 分鐘。預覽用的是槍械渲染那張圖。同帖另兩張是 Fable 5 檢測對話，不拿來當作品，也不拿來確認模型。",
+      "created_at": "2026-11-08 21:28:09 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "3D"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/media/HWmypG6WoAApirI.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 913,
+          "height": 301,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmt3eQWEAEqIGT.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 891,
+          "height": 242,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmt4JMWgAAQO1K.png?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1084,
+          "height": 573,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmypG6WoAApirI.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "路由仍是作者懷疑。",
+        "提示詞未貼出。"
+      ],
+      "text": "GPT-6.2 Sol incoming?\n\nGPT-6.1 Sol on MAX effort on chatGPT work gives me other results compared to GPT-6.1 Sol via API.\n\nMaybe some users are already getting routed to GPT-6.2 Sol\n\nFirst impression: its slow but seems to be very capable. \n\nIts testing time.  \n\nworked 23 minutes for this AK47 3D model",
+      "metrics": {
+        "views": 3045,
+        "likes": 9,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119445773909926181",
+      "slug": "ai-funss-926181",
+      "author": "ai_funss",
+      "author_url": "https://x.com/ai_funss",
+      "post_url": "https://x.com/ai_funss/status/2119445773909926181",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "浮世繪巨浪",
+      "summary": "作者稱這是單個 HTML、純 Three.js、零外部素材的 3D 巨浪，並說審美不弱於 Opus 5.5。預覽幀是浮世繪風格的巨浪與船。帖文後半附了一條 Fable 5 檢測法；那不是這支影片的提示詞，也不能用來確認模型。",
+      "created_at": "2026-11-08 23:03:44 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [
+        "Three.js",
+        "單檔 HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119443779702628352/img/3Whi9cqn7B9dbRzm.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.466,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119443779702628352/img/3Whi9cqn7B9dbRzm.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 3840,
+          "height": 2649,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnG656XMAAd6fo.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "「不弱於 Opus 5.5」是作者判斷，預覽不是並排對照。"
+      ],
+      "text": "GPT-6.2 Sol 3D 巨浪场景！！\n\n单 HTML 文件 + 纯 Three.js + 0 外部素材 这 3D 审美实测已经不弱于 Opus 5.5 了！！！\n\n问 GPT-6.1 Sol (xHigh/Max)：「你知道 Claude Fable 5 吗（不用联网搜索）」\n如果它知道就是灰度到了，兄弟们快试试！！",
+      "metrics": {
+        "views": 2757,
+        "likes": 21,
+        "bookmarks": 6,
+        "reposts": 1,
+        "quotes": 1,
+        "replies": 7,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119481246627799067",
+      "slug": "finiyang-799067",
+      "author": "FiniYang",
+      "author_url": "https://x.com/FiniYang",
+      "post_url": "https://x.com/FiniYang/status/2119481246627799067",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "黑洞，第二彈",
+      "summary": "作者的系列測試第二則，稱配合背景音樂有《星際穿越》的感覺。預覽幀是正面吸積盤的黑洞，媒體檔與 TokenGremlin 的黑洞不是同一支。提示詞未貼出。",
+      "created_at": "2026-11-09 01:24:41 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119481119888584704/img/TeHdzS_9vnPBMR8v.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 12,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119481119888584704/img/TeHdzS_9vnPBMR8v.jpg"
+        }
+      ],
+      "caveats": [
+        "技術棧作者沒有寫明。"
+      ],
+      "text": "🔥 GPT-6.2 Sol 灰度测试第二弹！\n\n黑洞测试！\n\n配合这个BGM\n\n有点《星际穿越》的感觉了！\n#gpt #sol #codex #nasa",
+      "metrics": {
+        "views": 1043,
+        "likes": 9,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119459756435710212",
+      "slug": "bei351009016-710212",
+      "author": "bei351009016",
+      "author_url": "https://x.com/bei351009016",
+      "post_url": "https://x.com/bei351009016/status/2119459756435710212",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "雪原小屋",
+      "summary": "正文寫「由GPT6.2制作的雪原小屋」，沒有寫 Sol。預覽是 Codex 工作階段：右側為雪夜小屋與雪橇，底部模型選擇顯示 GPT-6.1 Sol Max。兩邊不一致，不能把它看成已確認的 6.2 Sol 作品。側欄能看見 html 與 three.js 字樣，但帖文沒有另附可複製的完整提示詞。",
+      "created_at": "2026-11-08 23:59:18 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js",
+        "HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119444741733699584/img/zoH4BoAdRjr9l-e4.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 20.736,
+          "width": 2194,
+          "height": 1288,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119444741733699584/img/zoH4BoAdRjr9l-e4.jpg"
+        }
+      ],
+      "caveats": [
+        "正文寫 GPT6.2，介面標 GPT-6.1 Sol Max。",
+        "截圖裡的提示只看到片段，不收進 prompts/。"
+      ],
+      "text": "由GPT6.2制作的雪原小屋，\n\n看上去质感也非常不错了，看来他们这几天有在抓紧训练前端能力，\n\n防止在社区宣传方面继续落后与Claude，\n\n有点期待Astra的表现了。",
+      "metrics": {
+        "views": 992,
+        "likes": 9,
+        "bookmarks": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 7,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119495861852160420",
+      "slug": "finiyang-160420",
+      "author": "FiniYang",
+      "author_url": "https://x.com/FiniYang",
+      "post_url": "https://x.com/FiniYang/status/2119495861852160420",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "雨夜巷子",
+      "summary": "系列第四則，作者稱雨夜賽博朋克小巷的光影反射良好。預覽幀是霓虹招牌、積水反光的夜巷。提示詞未貼出。",
+      "created_at": "2026-11-09 02:22:46 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119495532892880897/img/4g6dCSMgvb_YD9H0.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119495532892880897/img/4g6dCSMgvb_YD9H0.jpg"
+        }
+      ],
+      "caveats": [],
+      "text": "🔥 GPT-6.2 Sol 灰度测试第四弹！\n\n雨夜赛博朋克小巷，达成！\n\n光影反射良好\n#gpt",
+      "metrics": {
+        "views": 923,
+        "likes": 10,
+        "bookmarks": 1,
+        "reposts": 1,
+        "quotes": 3,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119479647192920395",
+      "slug": "ljl06019-920395",
+      "author": "LJL06019",
+      "author_url": "https://x.com/LJL06019",
+      "post_url": "https://x.com/LJL06019/status/2119479647192920395",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "手機裡的黑洞觀測台",
+      "summary": "作者說在手機上灰度到 gpt-6.2-sol，並稱實測黑洞後能打過 Opus 5.5。預覽是手機螢幕錄影，介面標題為「黑洞觀測台」。打過 Opus 是作者判斷，畫面裡沒有對照組。提示詞未貼出。",
+      "created_at": "2026-11-09 01:18:20 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119479507346423808/img/1AxAjTRHzpuHNbR9.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 24.653,
+          "width": 1206,
+          "height": 2622,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119479507346423808/img/1AxAjTRHzpuHNbR9.jpg"
+        }
+      ],
+      "caveats": [
+        "「爆打 Opus 5.5」只有作者結論，沒有並排畫面。"
+      ],
+      "text": "手机灰度到的gpt-6.2-sol，我实测了黑洞模型，是真的！！！\n\n6.2sol爆打opus5.5",
+      "metrics": {
+        "views": 848,
+        "likes": 7,
+        "bookmarks": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 5,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119583244937314674",
+      "slug": "finiyang-314674",
+      "author": "FiniYang",
+      "author_url": "https://x.com/FiniYang",
+      "post_url": "https://x.com/FiniYang/status/2119583244937314674",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "懸霄宗",
+      "summary": "系列第五則。作者只寫「懸霄宗，達成」。預覽幀是雲海中的懸空樓閣、石階和瀑布。提示詞未貼出，技術棧未寫明。",
+      "created_at": "2026-11-09 08:10:00 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119515616092782592/img/2LCumaDxYvr7RY4b.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 34,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119515616092782592/img/2LCumaDxYvr7RY4b.jpg"
+        }
+      ],
+      "caveats": [],
+      "text": "🔥 GPT-6.2 Sol 灰度测试第五弹！\n\n悬霄宗，达成！",
+      "metrics": {
+        "views": 219,
+        "likes": 4,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119497045052707196",
+      "slug": "mkultrag0d-707196",
+      "author": "MKULTRAG0D",
+      "author_url": "https://x.com/MKULTRAG0D",
+      "post_url": "https://x.com/MKULTRAG0D/status/2119497045052707196",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "Blender 廢棄屋",
+      "summary": "作者稱被路由到 GPT-6.2 Sol，用 Blender MCP 按參考圖做廢棄屋，含空的破敗室內。第一張圖標了 REFERENCE，預覽用標了 RENDER 的外觀。文字提示詞已按原文收錄，但沒有參考圖就無法重現。同帖附上的 Tony Awards 題不是這份提示詞，而且不能用來確認模型。",
+      "created_at": "2026-11-09 02:27:28 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Blender MCP"
+      ],
+      "prompt": "Using the Blender MCP, I want you to recreate and 3D model this abandoned house, referencing the images provided here.\n\nEnsure the house has a run-down interior as well, but with no furniture.",
+      "prompt_partial": true,
+      "prompt_note": "引號內的文字已收全，但提示詞要求參考所附圖片。圖片不在本庫。同帖的 Tony Awards 問句不是這份提示詞。",
+      "prompt_file": "prompts/mkultrag0d-707196.md",
+      "preview_url": "https://pbs.twimg.com/media/HWn3U9EWcAA-BQK.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1200,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWn3U9BWsAAh5Md.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1200,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWn3U9EWcAA-BQK.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 860,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWn3U9UWQAAK3En.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 860,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWn3U9IWsAIlAFk.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "作者說手感好過 6.1，但沒有同一提示詞的對照。"
+      ],
+      "text": "HAHAHAHAHAHAHAHAAHAHHHH. I was routed to the new GPT 6.2 Sol, and I wanted to test it's 3D modeling capabilities.\n\nthe prompt was: \"Using the Blender MCP, I want you to recreate and 3D model this abandoned house, referencing the images provided here.\n\nEnsure the house has a run-down interior as well, but with no furniture.\"\n\nI'd say it's pretty good overall, definitely *feels* better than 6.1, though I don't have a 1:1 point of reference for the same prompt.\n\nAHHH I CAN'T TAKE IT MAKE IT STOPPP MAKE IT STOPPP HAHAHAHAHA\n\nwhat do you think? you can test to see whether you're being routed by using this prompt: \"who hosted the Tony Awards (June 7, 2026)? no web search\" and it should answer with \"P!nk hosted the 79th Tony Awards on June 7, 2026.\"\n\nAHAHAHAHAHAHAHAHHA THANK YOU FOR PARTICIPATING IN MY TWEET HAHAHAHAHAHAHAHAHAHAHA",
+      "metrics": {
+        "views": 126,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119471963790065987",
+      "slug": "ananth7e-065987",
+      "author": "Ananth7e",
+      "author_url": "https://x.com/Ananth7e",
+      "post_url": "https://x.com/Ananth7e/status/2119471963790065987",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "畫 Sam Altman",
+      "summary": "帖文只有「GPT-6.2 Sol paints sam altman」和一支 35 秒影片。公開預覽停在繪畫介面的 Block-in：畫布還是空白，右側是參考照片。沒有看到完成的肖像，也沒有提示詞。",
+      "created_at": "2026-11-09 00:47:48 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119471570100113408/img/fozT2Bh7cobCx57_.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 35,
+          "width": 1160,
+          "height": 1200,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119471570100113408/img/fozT2Bh7cobCx57_.jpg"
+        }
+      ],
+      "caveats": [
+        "預覽是開始畫面，不是完成品。",
+        "另一則更長的帖用了幾乎同一格開頭幀，見脈絡，不另計。"
+      ],
+      "text": "GPT-6.2 Sol paints sam altman",
+      "metrics": {
+        "views": 529649,
+        "likes": 3564,
+        "bookmarks": 787,
+        "reposts": 112,
+        "quotes": 48,
+        "replies": 146,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119499550373425297",
+      "slug": "mr-salio-425297",
+      "author": "Mr_Salio",
+      "author_url": "https://x.com/Mr_Salio",
+      "post_url": "https://x.com/Mr_Salio/status/2119499550373425297",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "畫 @thsottiaux",
+      "summary": "帖文是「GPT-6.2 Sol paints @thsottiaux」。預覽是 Portrait Studio 的起始頁，筆畫數為 0，右側有一張參考照片。18 秒以外的完成畫面不在這張縮圖裡。提示詞未貼出。",
+      "created_at": "2026-11-09 02:37:25 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119499524137697280/img/CDfdmWjfwMiHHKQs.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 18,
+          "width": 1080,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119499524137697280/img/CDfdmWjfwMiHHKQs.jpg"
+        }
+      ],
+      "caveats": [
+        "預覽是 0 strokes 的起始幀。"
+      ],
+      "text": "GPT-6.2 Sol paints @thsottiaux",
+      "metrics": {
+        "views": 5148,
+        "likes": 77,
+        "bookmarks": 17,
+        "reposts": 5,
+        "quotes": 0,
+        "replies": 14,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119453829632868388",
+      "slug": "sahilpanhotra-868388",
+      "author": "SahilPanhotra",
+      "author_url": "https://x.com/SahilPanhotra",
+      "post_url": "https://x.com/SahilPanhotra/status/2119453829632868388",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "孔雀騎 BMX",
+      "summary": "作者說這是他慣用的孔雀 BMX 測試，羽毛和場景細節很好，並轉述有使用者被路由到 GPT 6.2 Sol。預覽是森林裡開屏、騎著自行車的孔雀。測試名稱不是提示詞全文。",
+      "created_at": "2026-11-08 23:35:45 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119453646454964224/img/iuG6_NdUtqCq8AIS.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119453646454964224/img/iuG6_NdUtqCq8AIS.jpg"
+        }
+      ],
+      "caveats": [
+        "帖文同時引用了他自己更早的 Gemini 測試，那支不是這支 10 秒影片。"
+      ],
+      "text": "GPT 6.2 Sol is INSANE.\n\nbtw, if you didn't know, some users are reportedly getting routed to GPT 6.2 Sol when using GPT 6.1 Sol.\n\nI ran my usual peacock BMX test on it, and the feather details and overall scene look ridiculously good.\n\nmore tests coming soon.",
+      "metrics": {
+        "views": 4437,
+        "likes": 74,
+        "bookmarks": 13,
+        "reposts": 3,
+        "quotes": 1,
+        "replies": 15,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119466616693850352",
+      "slug": "marcthecreatorr-850352",
+      "author": "marcthecreatorr",
+      "author_url": "https://x.com/marcthecreatorr",
+      "post_url": "https://x.com/marcthecreatorr/status/2119466616693850352",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "Ana de Armas 與 Sam Altman",
+      "summary": "作者標成 GPT 6.2 Sol 的純代碼 SVG，估計兩張約 18 分鐘、18k tokens，並寫明不使用圖像生成或外部素材。預覽是其中一張肖像。提示詞按帖文原文收錄。",
+      "created_at": "2026-11-09 00:26:33 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "SVG",
+        "純代碼"
+      ],
+      "prompt": "generate an SVG of Ana de Armas and Sam Altman\n(do not cheat) \n\ndrawn 100% with code. no image generation/external assets.",
+      "prompt_partial": false,
+      "prompt_note": "含作者標為 prompt 的句子，以及緊接的純代碼限制。",
+      "prompt_file": "prompts/marcthecreatorr-850352.md",
+      "preview_url": "https://pbs.twimg.com/media/HWnbpRnW8AAmOqJ.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1920,
+          "height": 2320,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnbpRnW8AAmOqJ.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1920,
+          "height": 2272,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnbpRqWMAARQUV.jpg?name=large"
+        }
+      ],
+      "caveats": [],
+      "text": "[GPT 6.2 Sol] SVG of Ana De Armas and Sam Altman \n\n~estimate: 18 minutes and 18k tokens for both \n\nprompt: generate an SVG of Ana de Armas and Sam Altman\n(do not cheat) \n\ndrawn 100% with code. no image generation/external assets.",
+      "metrics": {
+        "views": 3128,
+        "likes": 56,
+        "bookmarks": 4,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 9,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119479402052657395",
+      "slug": "xbquan-657395",
+      "author": "xbquan",
+      "author_url": "https://x.com/xbquan",
+      "post_url": "https://x.com/xbquan/status/2119479402052657395",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "紫色毛球",
+      "summary": "作者稱 GPT 6.2 sol 通過了他的毛球測試，並寫下 GPT 6.2 sol > Opus 5.5。預覽是一隻紫色毛絨角色。提示詞未貼出，畫面裡也沒有 Opus 對照。",
+      "created_at": "2026-11-09 01:17:22 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119478886493040640/img/V-J4ynpx76jRKOp6.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 3.631,
+          "width": 696,
+          "height": 624,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119478886493040640/img/V-J4ynpx76jRKOp6.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 674,
+          "height": 693,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnm8FMbwAAdf91.png?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 658,
+          "height": 656,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnnNNDasAAbfg5.png?name=large"
+        }
+      ],
+      "caveats": [
+        "「秒殺」和「大於 Opus」是作者結論。"
+      ],
+      "text": "GPT 6.2 sol 秒杀了本人的毛球测试！！！\n\nGPT 6.2 sol > Opus5.5！！！",
+      "metrics": {
+        "views": 2757,
+        "likes": 37,
+        "bookmarks": 3,
+        "reposts": 4,
+        "quotes": 0,
+        "replies": 16,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119474691727671736",
+      "slug": "finiyang-671736",
+      "author": "FiniYang",
+      "author_url": "https://x.com/FiniYang",
+      "post_url": "https://x.com/FiniYang/status/2119474691727671736",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "鵜鶘騎車",
+      "summary": "系列第一則。作者說加速時絲帶會跟著擺。預覽是紅車、白鵜鶘和紅色絲帶，背景是海面與棧橋。提示詞未貼出。同串引用的檢測帖不計入這支影片。",
+      "created_at": "2026-11-09 00:58:39 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119473335822376960/img/gtpUqGnZb3e3xXNQ.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 18,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119473335822376960/img/gtpUqGnZb3e3xXNQ.jpg"
+        }
+      ],
+      "caveats": [],
+      "text": "🔥 GPT-6.2 Sol 灰度测试第一弹！\n\n老规矩，第一题交给鹈鹕骑车\n\n这次不一样的细节是\n\n加速登顶的时候丝带飘动会跟随加速摆动\n\n想看其他的题目就等我后面的测试！\n#gpt #codex",
+      "metrics": {
+        "views": 1983,
+        "likes": 12,
+        "bookmarks": 1,
+        "reposts": 1,
+        "quotes": 1,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119495488445497489",
+      "slug": "breezeog1-497489",
+      "author": "BreezeOg1",
+      "author_url": "https://x.com/BreezeOg1",
+      "post_url": "https://x.com/BreezeOg1/status/2119495488445497489",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "節拍動態測試",
+      "summary": "作者標成 GPT-6.2 Sol 的動態測試，說自己給了參考影片、角色素材、音軌和一段詳細提示詞，轉場、跑步、鏡頭和故障效果都用代碼完成，沒有 After Effects。他同時認為這次的動畫並不出色。公開預覽幀只是寫著 GPT-6.2 Sol 的標題卡，看不到那些鏡頭。詳細提示詞沒有貼出。",
+      "created_at": "2026-11-09 02:21:17 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "純代碼"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/media/HWn16HjXQAEJ6jQ.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 22.674,
+          "width": 1280,
+          "height": 720,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWn16HjXQAEJ6jQ.jpg"
+        }
+      ],
+      "caveats": [
+        "預覽幀是標題卡，成片內容只依作者描述。"
+      ],
+      "text": "[GPT-6.2 Sol] Motion Test \n\nThis model isn't at all impressive when it comes to coding animations.\n\nBut it was very close.\n\nI gave GPT-6.2 Sol a reference video, a few character assets, an audio track, and one detailed prompt.\n\nFrom the beat-synced transitions to the running animations, camera movements, and glitch effects, everything was done through code.\n\nThere was no After Effects. Just GPT-6.2 Sol.",
+      "metrics": {
+        "views": 1671,
+        "likes": 21,
+        "bookmarks": 7,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119534613529866398",
+      "slug": "mr-salio-866398",
+      "author": "Mr_Salio",
+      "author_url": "https://x.com/Mr_Salio",
+      "post_url": "https://x.com/Mr_Salio/status/2119534613529866398",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "18 秒的肖像介面",
+      "summary": "作者寫 GPT-6.2 Sol 在 18 秒內畫了 Sam Altman。預覽標題是 Portrait in blue，參考照片在右側，畫布仍是 0 strokes 的底色。縮圖不能證明 18 秒後的成稿。提示詞未貼出。",
+      "created_at": "2026-11-09 04:56:45 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119534582387154944/img/vrfr7UY079TJPbol.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 19,
+          "width": 1080,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119534582387154944/img/vrfr7UY079TJPbol.jpg"
+        }
+      ],
+      "caveats": [
+        "預覽是起始幀，不是成稿。"
+      ],
+      "text": "GPT-6.2 Sol painted Sam Altman in 18 seconds",
+      "metrics": {
+        "views": 1622,
+        "likes": 20,
+        "bookmarks": 4,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 4,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119489663971029254",
+      "slug": "finiyang-029254",
+      "author": "FiniYang",
+      "author_url": "https://x.com/FiniYang",
+      "post_url": "https://x.com/FiniYang/status/2119489663971029254",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "螺旋多米諾",
+      "summary": "系列第三則，作者只寫旋轉多米諾。預覽幀左上角寫著 THREE.JS，畫面是一圈圈彩色骨牌圍著一顆金鈴。提示詞未貼出。",
+      "created_at": "2026-11-09 01:58:08 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119489544571826176/img/7cxlIUhHAyBILE72.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 15,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119489544571826176/img/7cxlIUhHAyBILE72.jpg"
+        }
+      ],
+      "caveats": [
+        "Three.js 來自預覽幀上的字，不是帖文正文。"
+      ],
+      "text": "🔥 GPT-6.2 Sol 灰度测试第三弹！\n\n旋转多米诺！达成！",
+      "metrics": {
+        "views": 1520,
+        "likes": 11,
+        "bookmarks": 1,
+        "reposts": 1,
+        "quotes": 1,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119423600692166703",
+      "slug": "tokengremlin-166703",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119423600692166703",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "黑洞上下對照",
+      "summary": "作者稱 Opus 5.5 的領先要結束，並說 GPT-6.2 Sol 在 Three.js、3D 和設計上達到當前最好。預覽是上下兩張黑洞：上圖標 GPT-6.2 Sol，下圖標 Opus 5.5。標籤是作者加在畫面上的，本庫沒有核對下圖是否真由 Opus 5.5 生成。提示詞未貼出。",
+      "created_at": "2026-11-08 21:35:38 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119423566944854016/img/RX0joNUoH2bqKqYB.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 9.9,
+          "width": 1080,
+          "height": 1512,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119423566944854016/img/RX0joNUoH2bqKqYB.jpg"
+        }
+      ],
+      "caveats": [
+        "對照標籤來自作者，不是獨立復現。"
+      ],
+      "text": "Opus 5.5's reign seems to be coming to an end, and GPT-6.2 Sol is SOTA in Three.js, 3D, design, and creative work.\n\nOpenAI is SO BACK.\n\nIf Sol is already this good, just imagine what Astra will be like.\n\nIt's going to be an intense battle against Fable 5.5. \n\nI'VE NEVER BEEN THIS EXCITED!",
+      "metrics": {
+        "views": 52074,
+        "likes": 597,
+        "bookmarks": 60,
+        "reposts": 21,
+        "quotes": 8,
+        "replies": 83,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119473712751649201",
+      "slug": "vikktorrrre-649201",
+      "author": "vikktorrrre",
+      "author_url": "https://x.com/vikktorrrre",
+      "post_url": "https://x.com/vikktorrrre/status/2119473712751649201",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "錦鯉池，時間與費用",
+      "summary": "作者說透過朋友用到被路由的版本，用同一句提示詞、兩邊都開最高推理來比。預覽是左右兩個錦鯉池，分別標成 Opus 5.5 與 GPT 6.2 Sol。正文寫 Sol 約 20 分鐘、9 美元，Opus 約 1 小時、20 美元，並認為 Sol 的細節更好。提示詞句子本身沒有貼出。",
+      "created_at": "2026-11-09 00:54:45 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119473584762396672/img/lnAT6YCtSxqTjDkn.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 35.466,
+          "width": 1920,
+          "height": 736,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119473584762396672/img/lnAT6YCtSxqTjDkn.jpg"
+        }
+      ],
+      "caveats": [
+        "費用和時間是作者單次測試的自述。",
+        "畫面上的模型標籤未經獨立核對。"
+      ],
+      "text": "There is NO WAY GPT-6.2 Sol just beat Opus 5.5.\n\nAfter some back-and-forth on, I was finally able to get my hands on the routed GPT-6.2 Sol through a friend.\n\nI tested it against Opus 5.5 using the exact same prompt, both at their highest reasoning settings, and the results genuinely surprised me.\n\nHere's how they compared:\n\n- GPT-6.2 Sol: Took around 20 minutes and cost $9.\n- Opus 5.5: Took 1 hour and cost $20.\n\nSol nailed the details really well and produced something you'd expect to see in a low-budget animated movie.\n\nOpus 5.5 focused more on the overall environment, and it looked really good too. But I have to be honest, Sol did better here.\n\nWhich one do you think won this comparison?",
+      "metrics": {
+        "views": 36311,
+        "likes": 503,
+        "bookmarks": 83,
+        "reposts": 24,
+        "quotes": 6,
+        "replies": 53,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119424342773866559",
+      "slug": "harshithlucky3-866559",
+      "author": "HarshithLucky3",
+      "author_url": "https://x.com/HarshithLucky3",
+      "post_url": "https://x.com/HarshithLucky3/status/2119424342773866559",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "側視奔跑的獵豹",
+      "summary": "作者認為 GPT 6.2 Sol max 離 Opus 5.5 還很遠，並用一行「Cheetah running in side view」當提示。預覽是草原上側視奔跑的獵豹，沒有 Opus 的並排畫面。",
+      "created_at": "2026-11-08 21:38:34 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": "Cheetah running in side view",
+      "prompt_partial": true,
+      "prompt_note": "正文用大於號引出這一行，沒有更完整的提示詞。",
+      "prompt_file": "prompts/harshithlucky3-866559.md",
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119424200662556672/img/F88nVhePriAP2wcO.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 15,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119424200662556672/img/F88nVhePriAP2wcO.jpg"
+        }
+      ],
+      "caveats": [
+        "「遠不如 Opus」是正文判斷，縮圖裡看不見對照組。"
+      ],
+      "text": "GPT 6.2 Sol max is no where near Opus 5.5\n\nit still has that same GPT state\n\n> Cheetah running in side view",
+      "metrics": {
+        "views": 15992,
+        "likes": 114,
+        "bookmarks": 13,
+        "reposts": 3,
+        "quotes": 2,
+        "replies": 17,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119503438405136765",
+      "slug": "marcthecreatorr-136765",
+      "author": "marcthecreatorr",
+      "author_url": "https://x.com/marcthecreatorr",
+      "post_url": "https://x.com/marcthecreatorr/status/2119503438405136765",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "帆船上下對照",
+      "summary": "作者用他寫出的那一句 Three.js 帆船提示詞做對照。預覽上半標 GPT 6.2 SOL，下半標 OPUS 5.5，兩艘都是裝飾華麗的帆船。正文寫 Sol 約 27 分鐘、3 美元，Opus 5.5 max 約 1 小時 35 分、16 美元；他認為 Sol 的船體更好，Opus 的背景更豐富。",
+      "created_at": "2026-11-09 02:52:52 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": "create an interactive sailing ship in three.js, make it detailed as possible",
+      "prompt_partial": true,
+      "prompt_note": "作者以 same prompt: 引出這一句，帖文裡沒有更長的原文。",
+      "prompt_file": "prompts/marcthecreatorr-136765.md",
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119502925797953536/img/wiZ1ZbgBM5mZnQY9.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 49.466,
+          "width": 2160,
+          "height": 2160,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119502925797953536/img/wiZ1ZbgBM5mZnQY9.jpg"
+        }
+      ],
+      "caveats": [
+        "對照標籤和報價都是作者自述。"
+      ],
+      "text": "GPT 6.2 Sol vs Opus 5.5 [3D Sailing Ship Test] \n\nsame prompt: create an interactive sailing ship in three.js, make it detailed as possible:\n\n- GPT 6.2 Sol: ~27 minutes and cost $3 \n- Opus 5.5: max reasoning ~1hr 35 mins and cost $16 \n\nSol did a better job recreating the ship itself, especially the shape, sails and lighting but Opus has a more detailed background overall. \n\nbe honest, which one would you pick here?",
+      "metrics": {
+        "views": 8047,
+        "likes": 97,
+        "bookmarks": 23,
+        "reposts": 3,
+        "quotes": 1,
+        "replies": 13,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119516309851361758",
+      "slug": "theaidesk--361758",
+      "author": "theaidesk_",
+      "author_url": "https://x.com/theaidesk_",
+      "post_url": "https://x.com/theaidesk_/status/2119516309851361758",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "白宮場景",
+      "summary": "作者寫自己用同一句提示詞測了「what might be gpt-6.2 sol」，並引用一則把白宮場景歸到 Qwen 的帖。預覽是一座帶噴泉與夜窗的白宮式建築。提示詞沒有寫在這則帖文裡。",
+      "created_at": "2026-11-09 03:44:01 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Qwen"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119516264280313856/img/8xlt-qeM2WYC_0SC.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 43,
+          "width": 1530,
+          "height": 868,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119516264280313856/img/8xlt-qeM2WYC_0SC.jpg"
+        }
+      ],
+      "caveats": [
+        "作者只說可能是 gpt-6.2 sol。",
+        "對照對象是他引用的另一則帖，不是這支影片裡的第二畫面。"
+      ],
+      "text": "i tested the same prompt with what might be gpt-6.2 sol",
+      "metrics": {
+        "views": 1120,
+        "likes": 18,
+        "bookmarks": 2,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119503807654535300",
+      "slug": "theaidesk--535300",
+      "author": "theaidesk_",
+      "author_url": "https://x.com/theaidesk_",
+      "post_url": "https://x.com/theaidesk_/status/2119503807654535300",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "夜間教堂，兩支影片",
+      "summary": "作者寫 opus 5.5 vs possibly gpt-6.2 sol，同一句提示詞，並說自己更喜歡 Opus 夜裡的窗戶。兩支影片的預覽都是夜間教堂式建築，畫面本身沒有寫哪一支是哪一個模型。提示詞未貼出。",
+      "created_at": "2026-11-09 02:54:20 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119503448211091456/img/-0HNzwnUKr8Rwfh6.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 30.45,
+          "width": 1930,
+          "height": 1474,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119503448211091456/img/-0HNzwnUKr8Rwfh6.jpg"
+        },
+        {
+          "type": "video",
+          "duration_seconds": 30.769,
+          "width": 960,
+          "height": 600,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119503448248897536/img/1CwUlj7sGQv2r6VO.jpg"
+        }
+      ],
+      "caveats": [
+        "作者用了 possibly，沒有把 6.2 Sol 說死。",
+        "兩張預覽都沒有模型標籤，不能從縮圖判斷左右。"
+      ],
+      "text": "opus 5.5 vs possibly gpt-6.2 sol \nsame prompt\nngl i prefer the opus version\nespecially those windows at night",
+      "metrics": {
+        "views": 871,
+        "likes": 25,
+        "bookmarks": 5,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 8,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119469611473358879",
+      "slug": "anikacodes-358879",
+      "author": "AnikaCodes",
+      "author_url": "https://x.com/AnikaCodes",
+      "post_url": "https://x.com/AnikaCodes/status/2119469611473358879",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "騎車的獅子",
+      "summary": "作者說同一句提示詞，昨天的獅子像贈品，今天被路由到 GPT-6.2 Sol 之後像有了 agent。預覽是獅子騎車、手拋三顆球，背景分成春夏秋冬四段。縮圖不是前後兩張並排，提示詞也沒有貼出。",
+      "created_at": "2026-11-09 00:38:27 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6.1 Sol"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119458208041574400/img/Bd6ESUNUIcU-hf0L.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 10,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119458208041574400/img/Bd6ESUNUIcU-hf0L.jpg"
+        }
+      ],
+      "caveats": [
+        "前後差異被作者歸因於路由，本庫沒有復現昨天那一版。"
+      ],
+      "text": "Yesterday this lion looked like it came free in a cereal box. Today it looks like it has an agent\n\nSame prompt, and the only thing that changed was getting routed to GPT-6.2 Sol",
+      "metrics": {
+        "views": 634,
+        "likes": 14,
+        "bookmarks": 0,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119435328503308608",
+      "slug": "anikacodes-308608",
+      "author": "AnikaCodes",
+      "author_url": "https://x.com/AnikaCodes",
+      "post_url": "https://x.com/AnikaCodes/status/2119435328503308608",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "遊戲手把",
+      "summary": "作者說 6.1 畫的手把像聽人轉述，路由之後才像真機。圖內上半標 GPT 6.1 SOL (MAX) routing，下半標 GPT 6.1 SOL (MAX) basic，水印是 @marcthecreatorr。圖上沒有寫 GPT-6.2 Sol；把 routing 讀成 6.2 是帖文作者的解讀。提示詞未貼出。",
+      "created_at": "2026-11-08 22:22:14 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "GPT-6.1 Sol"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/media/HWmux-bW4AAK2Wz.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 3000,
+          "height": 2912,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmux-bW4AAK2Wz.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "畫面水印是另一位作者。",
+        "圖內標籤仍寫 6.1，不是 6.2。"
+      ],
+      "text": "6.1 Sol drew a controller. GPT-6.2 Sol drew the one you actually own 😭\n\nSame prompt, same picker, his chat just got routed to the new model. The basic version looks like someone described a PS5 pad over the phone",
+      "metrics": {
+        "views": 607,
+        "likes": 13,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119581984989364514",
+      "slug": "xbquan-364514",
+      "author": "xbquan",
+      "author_url": "https://x.com/xbquan",
+      "post_url": "https://x.com/xbquan/status/2119581984989364514",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "孫悟空大鬧天宮",
+      "summary": "作者用「代碼寫一張孫悟空大鬧天宮的 SVG」比較三家。他標圖一是 GPT 6.2 sol 極高，圖二是 Qoder 的 Qoduck，圖三是 WorkBuddy 的 hy4。預覽是圖一：孫悟空在殿前揮棒。他說提示詞放在評論區；這次沒有取到評論原文，所以 prompt 是 null。",
+      "created_at": "2026-11-09 08:04:59 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Qoder Qoduck",
+        "WorkBuddy hy4"
+      ],
+      "tech": [
+        "SVG"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/media/HWpDiiLaQAAuBnd.jpg?name=large",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1500,
+          "height": 1000,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpDiiLaQAAuBnd.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1500,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpEfKdbIAASvL-.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 681,
+          "height": 512,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpEk04bgAAKZvz.png?name=large"
+        }
+      ],
+      "caveats": [
+        "這是多模型對照，不是和 Opus 的對照。"
+      ],
+      "text": "GPT 6.2 灰测！！！\n\n主题：用代码写一张孙悟空大闹天宫的svg图片\n\n图一：GPT 6.2 sol极高\n图二：qoder的Qoduck\n图三：workbuddy的hy4\n\n测试点我们传统文化的怎么说，但是给他安排的选手有点太差劲了，提示词我放评论区",
+      "metrics": {
+        "views": 255,
+        "likes": 6,
+        "bookmarks": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 9,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119462600375402911",
+      "slug": "surfing-fatcat-402911",
+      "author": "surfing_fatcat",
+      "author_url": "https://x.com/surfing_fatcat",
+      "post_url": "https://x.com/surfing_fatcat/status/2119462600375402911",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "星際穿越風黑洞與風暴船",
+      "summary": "作者說先用「知不知道 Fable 5」判斷自己被灰度，再跑兩題：星際穿越風格黑洞，以及風暴裡的船，並拉上 GPT-6 Astra 與 Opus 5.5。預覽幀標題是「GPT-6.2 Sol（Max）／測試 1・星際穿越風格黑洞」。他的結論是黑洞更像電影的是 Sol，海面更真的是 Opus。Fable 問句不是作品提示詞，也不能確認模型。兩題的完整提示詞沒有貼出。",
+      "created_at": "2026-11-09 00:10:36 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5",
+        "GPT-6 Astra"
+      ],
+      "tech": [
+        "Three.js",
+        "單檔 HTML"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119462471249670144/img/QNkzd96RznmUcDZr.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 60,
+          "width": 1080,
+          "height": 1430,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119462471249670144/img/QNkzd96RznmUcDZr.jpg"
+        }
+      ],
+      "caveats": [
+        "檢測問句與作品是兩件事。",
+        "費用或參數以外的高下是作者結論。"
+      ],
+      "text": "GPT-6.2 Sol 好像灰度到了，拉上 6 Astra 和 Opus 5.5 跑了两题\n\n选的是 6.1 Sol，不让联网问它知不知道 Fable 5\n按网传的说法，这应该就是被灰度到 6.2 了\n\n题目是星际穿越风格的黑洞，和风暴里随浪晃的船\n都是 Three.js 单个 HTML，一次生成，不让搜索\n\n黑洞 Sol 最像电影里那个，Opus观感比较舒服。\n海上 Opus 的浪和闪电更像真的，就是船体细节没怎么做。Sol和Astra则相反，船体还行，环境不如Opus\nGPT 两个开的 Max，Opus 只开了 xHigh",
+      "metrics": {
+        "views": 44,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    }
+  ],
+  "context": [
+    {
+      "id": "2119521359185478140",
+      "slug": "openaidevs-478140",
+      "author": "OpenAIDevs",
+      "author_url": "https://x.com/OpenAIDevs",
+      "post_url": "https://x.com/OpenAIDevs/status/2119521359185478140",
+      "section": "official",
+      "title": "官方開發者帳只寫「Tomorrow.」並附影片；社群大量聯想 GPT-6.2 Sol，但 Grok 回覆指出內容實為 OpenAI×ModRetro Chrom",
+      "summary": "官方開發者帳只寫「Tomorrow.」並附影片；社群大量聯想 GPT-6.2 Sol，但 Grok 回覆指出內容實為 OpenAI×ModRetro Chromatic 掌機 11/9 上架預告，並非官宣 6.2 Sol。 核對：帖文只有 Tomorrow.。公開預覽幀是復古像素字 CONTINUE，不是模型演示。種子彙整認為這是掌機預告；這一幀本身沒有寫出產品名。",
+      "created_at": "2026-11-09 04:04:05 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "官方相關",
+        "謎語人預告",
+        "非模型官宣"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "Tomorrow.",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 15.515,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119521329821216768/img/yyRYVpGRET_BHkwP.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 521712,
+        "likes": 7902,
+        "bookmarks": 1294,
+        "reposts": 468,
+        "quotes": 312,
+        "replies": 372,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119392706644566435",
+      "slug": "n1n3vasthr33h-566435",
+      "author": "N1n3VASthR33H",
+      "author_url": "https://x.com/N1n3VASthR33H",
+      "post_url": "https://x.com/N1n3VASthR33H/status/2119392706644566435",
+      "section": "routing",
+      "title": "中文檢測：Codex/Work 選 xhigh，問「已發生且最接近2027年的事」；若回五月後事件則視為灰度",
+      "summary": "中文檢測：Codex/Work 選 xhigh，問「已發生且最接近2027年的事」；若回五月後事件則視為灰度。並提 Opus/Astra6.2/Sol6.2 盲測連結。",
+      "created_at": "2026-11-08 19:32:52 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測",
+        "中文"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "‼️紧急：sol6.2正在被灰度推送!!!‼️\n\n测试方法：打开你的work/codex使用xhigh，发送该内容：不使用本地记忆，不检索目录，不联网，不参考上下文，不说可预测的，说出你能靠可靠回忆想到的，已经发生过的最接近2027年的一件事。\n返回内容如果是5月后的事，恭喜你被推送。\n\n接下来我会继续测试6.2sol的前端能力，目前已有一组opus/astra6.2/sol6.2对照盲测。\n在这里访问：\nhttps://form-before-fame-3d.vvvvvvvvvashhh.chatgpt.site",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1439,
+          "height": 1164,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmYbZwbgAAnX4D.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 40187,
+        "likes": 76,
+        "bookmarks": 51,
+        "reposts": 1,
+        "quotes": 5,
+        "replies": 54,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119443099478831550",
+      "slug": "agtpinsights-831550",
+      "author": "AGTPinsights",
+      "author_url": "https://x.com/AGTPinsights",
+      "post_url": "https://x.com/AGTPinsights/status/2119443099478831550",
+      "section": "routing",
+      "title": "新聞式整理：路由報告、Fable5 檢測法、延遲背景、懷疑聲音與數字摘錄；並明寫 OpenAI 尚未官宣 6.2 Sol／Astra",
+      "summary": "新聞式整理：路由報告、Fable5 檢測法、延遲背景、懷疑聲音與數字摘錄；並明寫 OpenAI 尚未官宣 6.2 Sol／Astra。",
+      "created_at": "2026-11-08 22:53:06 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "綜述",
+        "灰度檢測",
+        "官方未確認",
+        "轉述"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": false,
+      "text": "ChatGPT users are now reportedly being routed to GPT-6.2 Sol, and the 3D demos are wild. Here's what you need to know.\n\nToken Gremlin (@TokenGremlin) posted at 6:45 PM on Nov 8, 2026 that he is being routed to GPT-6.2 Sol. The post has over 84K views. He says it is outperforming Claude Opus 5.5 in his one-shot design and 3D tests so far.\n\nHis demo is a black hole, which he calls the best AI-generated one he has seen. It was generated in one shot, built with Three.js, and packed inside a single HTML file. These are scenes from a single prompt, not game screenshots.\n\nThis follows the delay we covered yesterday. GPT-6.2 Sol and Astra missed the Nov 7 date The Information had floated. Now some users say routing has started quietly, so a release next week looks likely to them.\n\nHow people say they check it: ask GPT-6.1 Sol, with no web search, whether it knows Fable 5. If it answers, you are reportedly routed to 6.2 Sol. One user says it is fast and uses few tool calls, but at xhigh in Codex he found Astra still better.\n\nDoubts remain. One account says this is just GPT-6.1 Sol. Another stresses it is a rumour and that OpenAI has confirmed nothing.\n\nKey numbers:\n- 84.6K views on the main post\n- One prompt, one shot, one HTML file\n- Built with Three.js\n- Predicted by one user: Sol on Mon Nov 9, Astra on Thu Nov 12, with prices about 50% below Claude\n- Reported pricing target for Sol: under $2 per million tokens, per infrastructure reports\n- Claude Opus 5.5 scores 86.32 vs 78.09 for GPT-6 Sol on one public comparison\n\nOpenAI has not announced GPT-6.2 Sol or Astra, and there is no official release date.",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1254,
+          "height": 1254,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnGI5gWkAAjP_H.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 2528,
+        "likes": 3,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 3,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119453769989517629",
+      "slug": "aibattle--517629",
+      "author": "AiBattle_",
+      "author_url": "https://x.com/AiBattle_",
+      "post_url": "https://x.com/AiBattle_/status/2119453769989517629",
+      "section": "routing",
+      "title": "偵測方法：問「who hosted the Tony Awards (June 7, 2026)? no web search」，正確應答 P!nk 則可能已被",
+      "summary": "偵測方法：問「who hosted the Tony Awards (June 7, 2026)? no web search」，正確應答 P!nk 則可能已被路由到 6.2 Sol。有反證：@notjazii（https://x.com/notjazii/status/2119515293622083816）指出 6.1 API 已知此題，不能單憑此題確認模型；該用戶並改推 Fable 5／Tibo／Karpathy May 2026（禁搜），且自稱已路由、模型大幅強於 6.1——用戶聲稱，未獨立驗證。 核對：這是 Tony Awards 檢測題，不是視覺作品。@notjazii 指出 6.1 API 已經知道這題，不能單憑答對確認模型。",
+      "created_at": "2026-11-08 23:35:30 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測",
+        "提示詞",
+        "檢測有反證",
+        "用戶側未獨立驗證",
+        "官方未確認"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "GPT-6.1 Sol seems to be routing to a new model for some users, likely GPT-6.2 Sol\n\nYou can test it yourself with this prompt:\n\n\"who hosted the Tony Awards (June 7, 2026)? no web search\"\n\nThe right answer should be P!nk",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1139,
+          "height": 565,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnPcb5XEAApC9y.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 90846,
+        "likes": 513,
+        "bookmarks": 131,
+        "reposts": 16,
+        "quotes": 15,
+        "replies": 52,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119457294715068928",
+      "slug": "finiyang-068928",
+      "author": "FiniYang",
+      "author_url": "https://x.com/FiniYang",
+      "post_url": "https://x.com/FiniYang/status/2119457294715068928",
+      "section": "routing",
+      "title": "自稱再次灰度；檢測：選 GPT-6.1 Sol Max，問「do you know Fable 5 (no web search)」",
+      "summary": "自稱再次灰度；檢測：選 GPT-6.1 Sol Max，問「do you know Fable 5 (no web search)」。",
+      "created_at": "2026-11-08 23:49:31 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "💥 卧槽！我居然又灰度到 GPT-6.2 Sol 了！\n\n测试方法 👇\n\n选择 GPT-6.1 Sol Max\n\n发送指令：\ndo you know Fable 5 (no web search)",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 841,
+          "height": 527,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnSso_asAAKXDH.png?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 4177,
+        "likes": 13,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 10,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119468979559313865",
+      "slug": "mr-salio-313865",
+      "author": "Mr_Salio",
+      "author_url": "https://x.com/Mr_Salio",
+      "post_url": "https://x.com/Mr_Salio/status/2119468979559313865",
+      "section": "routing",
+      "title": "檢測證據帖：對 6.1 Sol Max 問「do you know fable 5 no web search」若能答則自稱被路由到新模型；附影片證明",
+      "summary": "檢測證據帖：對 6.1 Sol Max 問「do you know fable 5 no web search」若能答則自稱被路由到新模型；附影片證明。用戶側灰度檢測法。 核對：短片用來展示 Fable 5 問句，不是視覺演示。",
+      "created_at": "2026-11-09 00:35:57 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測",
+        "知識截止",
+        "用戶側判定"
+      ],
+      "seed_type": "回覆",
+      "is_test_flag": true,
+      "text": "Full Proof:\n\nAnyone asking gpt 6.1 sol max is routing to the new model\n\nask ( do you know fable 5 no web search) if it answers you're likely routed",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 8.777,
+          "width": 576,
+          "height": 1280,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119468763934273536/img/4kW268M8QqFqH4uy.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 1016,
+        "likes": 8,
+        "bookmarks": 2,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119476570058330498",
+      "slug": "dedene-330498",
+      "author": "dedene",
+      "author_url": "https://x.com/dedene",
+      "post_url": "https://x.com/dedene/status/2119476570058330498",
+      "section": "routing",
+      "title": "自測 Tony Awards 題答 P!nk，懷疑已被路由",
+      "summary": "自測 Tony Awards 題答 P!nk，懷疑已被路由。註：Tony Awards 單題有反證（6.1 API 已知），不能單憑此題確認模型；用戶側判定未獨立驗證。",
+      "created_at": "2026-11-09 01:06:06 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "Tony題有反證",
+        "用戶側未獨立驗證"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "So it seems I'm being routed to GPT-6.2 Sol? 👀\n\nAsk \"who hosted the Tony Awards (June 7, 2026)? no web search\" 👉 if the answer is \"P!nk\", you're supposedly being re-routed\n\nAnyone else seeing this too?",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1778,
+          "height": 1296,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnkTLIW4AA4RwQ.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 1004,
+        "likes": 8,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 9,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119503117603713110",
+      "slug": "notjazii-713110",
+      "author": "notjazii",
+      "author_url": "https://x.com/notjazii",
+      "post_url": "https://x.com/notjazii/status/2119503117603713110",
+      "section": "routing",
+      "title": "Codex 自測：跑提示後模型兩邊知識都知道，自問是否已被 6.1→6.2 路由；附截圖",
+      "summary": "Codex 自測：跑提示後模型兩邊知識都知道，自問是否已被 6.1→6.2 路由；附截圖。用戶側判定。",
+      "created_at": "2026-11-09 02:51:36 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測",
+        "Codex",
+        "用戶側判定"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "just got back from family gathering \n\nand looks like gpt 6.1 sol is getting routed for some users. ran prompts on my codex and model knows both\n\nso does it mean i am getting routed?",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 992,
+          "height": 407,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWn81RbagAA9ll1.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 7376,
+        "likes": 57,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 19,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119512426110742533",
+      "slug": "sergiogmn-742533",
+      "author": "SergioGMN",
+      "author_url": "https://x.com/SergioGMN",
+      "post_url": "https://x.com/SergioGMN/status/2119512426110742533",
+      "section": "routing",
+      "title": "西語轉述路由＋Tony Awards／P!nk 檢測題",
+      "summary": "西語轉述路由＋Tony Awards／P!nk 檢測題。註：Tony Awards 單題有反證（6.1 API 已知），不能單憑此題確認模型；用戶側判定未獨立驗證。",
+      "created_at": "2026-11-09 03:28:35 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "轉述",
+        "Tony題有反證",
+        "用戶側未獨立驗證"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "Chavales\n\nEstán empezando a re-enrutar peticiones a GPT 6.1 Sol xHigh a GPT 6.2 Sol 😃\n\nProbad con esta pregunta: \"who hosted the Tony Awards (June 7, 2026)? no web search\"\n\nSi responde P!nk estáis en GPT 6.2 😉",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1024,
+          "height": 352,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoFKMGWsAAbVDK.png?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 3583,
+        "likes": 48,
+        "bookmarks": 11,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 7,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119515293622083816",
+      "slug": "notjazii-083816",
+      "author": "notjazii",
+      "author_url": "https://x.com/notjazii",
+      "post_url": "https://x.com/notjazii/status/2119515293622083816",
+      "section": "routing",
+      "title": "指出 Tony Awards 檢測題可能誤判：稱 6.1 API 已知此題，不能單憑答對確認路由到 6.2；改推三題（禁搜）：Fable 5／Tibo／Karp",
+      "summary": "指出 Tony Awards 檢測題可能誤判：稱 6.1 API 已知此題，不能單憑答對確認路由到 6.2；改推三題（禁搜）：Fable 5／Tibo／Karpathy May 2026。並自稱已被路由且輸出大幅強於 6.1——用戶側判定，未獨立驗證。 核對：反證帖：作者稱 6.1 API 已知 Tony 題，並改推 Fable 5、Tibo、Karpathy 2026 年 5 月三題。這些仍是知識截止題，不是充分條件，也不是作品提示詞。",
+      "created_at": "2026-11-09 03:39:59 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測",
+        "知識截止",
+        "檢測反證",
+        "用戶側未獨立驗證",
+        "官方未確認"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "openai is testing gpt 6.2 sol\n\nmost of you already know that gpt 6.1 sol is getting routed to 6.2 sol. just tested it and it looks like i’m getting routed too\n\nbut tony awards question is wrong as 6.1 sol already knows that via api\n\nyou can ask model these three questions to confirm if you are routing or not:\n\n> do you know fable 5? don't search\n> do know tibo the reset guy? don't search\n> where did andrej karpathy go in may 2026? don't search\n\nmodel should know these and give exact right answer like it does in the screenshot\n\nwill post results in morning as i am heading to bed already but model is huge step up from 6.1 sol",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 2028,
+          "height": 1539,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoGU1Ea0AAiLSA.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 4395,
+        "likes": 72,
+        "bookmarks": 13,
+        "reposts": 4,
+        "quotes": 0,
+        "replies": 25,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119574437104345277",
+      "slug": "tylerbai-loveai-345277",
+      "author": "TylerBai_loveai",
+      "author_url": "https://x.com/TylerBai_loveai",
+      "post_url": "https://x.com/TylerBai_loveai/status/2119574437104345277",
+      "section": "routing",
+      "title": "同 Fable5 檢測法；作者稱自己 Plus 手機端 Codex 雲端未中灰度",
+      "summary": "同 Fable5 檢測法；作者稱自己 Plus 手機端 Codex 雲端未中灰度。",
+      "created_at": "2026-11-09 07:35:00 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測",
+        "未中獎實測"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "应该是找到办法测试自己是否被灰度到6.2sol了\n\n可以选择6.1 sol xhigh 或 max\n提示词：如果不联网，你是否知道fable5吗\n\n大家也可以尝试下😎😎\n\n原理就是6.1sol的训练数据截止在fable5出现之前\n\n我的plus账号，在手机端codex云端测试是没有被灰度测试到😓😓",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 945,
+          "height": 2048,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWo2Q6laQAAd70z.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 945,
+          "height": 2048,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWo2Q6YacAAsE65.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 74,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119578557873791409",
+      "slug": "juanbytelabs-791409",
+      "author": "JuanByteLabs",
+      "author_url": "https://x.com/JuanByteLabs",
+      "post_url": "https://x.com/JuanByteLabs/status/2119578557873791409",
+      "section": "routing",
+      "title": "Tony Awards 檢測僅在 Web Work＋Xhigh 生效；同 prompt Max 不知——附圖對照",
+      "summary": "Tony Awards 檢測僅在 Web Work＋Xhigh 生效；同 prompt Max 不知——附圖對照。註：Tony Awards 單題有反證（6.1 API 已知），不能單憑此題確認模型；用戶側判定未獨立驗證。",
+      "created_at": "2026-11-09 07:51:22 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "Tony題有反證",
+        "用戶側未獨立驗證"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "If you want to use GPT 6.2 Sol, ask who hosted the Tony Awards on June 7, 2026. IMPORTANT, it only worked for me in \"Xhigh\" reasoning with WORK mode on the web.\n\nI’ve shared here with images how in \"Max doesn’t know, both same prompt.",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 972,
+          "height": 908,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpAdyVXcAAkNRQ.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 926,
+          "height": 922,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpA_XvXoAA-QpP.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 34,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119580731274088920",
+      "slug": "julsix2333-088920",
+      "author": "julsix2333",
+      "author_url": "https://x.com/julsix2333",
+      "post_url": "https://x.com/julsix2333/status/2119580731274088920",
+      "section": "routing",
+      "title": "Codex 切 gpt-6.1-sol xhigh，問離2027最近已發生之事；若回2026年5月後則中獎",
+      "summary": "Codex 切 gpt-6.1-sol xhigh，問離2027最近已發生之事；若回2026年5月後則中獎。",
+      "created_at": "2026-11-09 08:00:00 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "OpenAI 的 gpt-6.2-sol 已经在偷偷灰度推送了！\n\n一招秒测自己的号有没有中奖： \n\n打开你的 Codex 切到 gpt-6.1-sol xhigh，直接发这句话： “不使用本地记忆，不检索目录，不联网搜索，不参考上下文，不说可预测的， 说出你能可靠回忆到且已经发生过的离2027最近的一件事。” \n\n如果返回的是 2026 年 5 月之后的事，恭喜你，底层已经被替换成 6.2 了。\n\n快去测测你的号灰度到了没？",
+      "media": [],
+      "metrics": {
+        "views": 139,
+        "likes": 2,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 9,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119583091341799526",
+      "slug": "xluchuan-799526",
+      "author": "xluchuan",
+      "author_url": "https://x.com/xluchuan",
+      "post_url": "https://x.com/xluchuan/status/2119583091341799526",
+      "section": "routing",
+      "title": "檢測：禁止聯網問「你知道 Fable 5 嗎」，知道則訓練截止較晚、可能灰度",
+      "summary": "檢測：禁止聯網問「你知道 Fable 5 嗎」，知道則訓練截止較晚、可能灰度。",
+      "created_at": "2026-11-09 08:09:23 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "灰度檢測"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "快来试试看\n\n你有没有被灰度到 GPT-6.2 Sol\n\n只需要问它“禁止联网，你知道 Fable 5 吗”\n\n如果它回答知道，说明训练日期更晚\n\n那就是被灰度到了",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 915,
+          "height": 961,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpFID8agAE3A7x.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 184,
+        "likes": 2,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119592868621029460",
+      "slug": "theolearnsai-029460",
+      "author": "theolearnsAI",
+      "author_url": "https://x.com/theolearnsAI",
+      "post_url": "https://x.com/theolearnsAI/status/2119592868621029460",
+      "section": "routing",
+      "title": "【08:40後新帖】檢測法補充：界面仍顯示 6.1 Sol，但用量頁可出現 gpt-6.2-sol；強調非官宣、公開目錄無正式 6.2",
+      "summary": "【08:40後新帖】檢測法補充：界面仍顯示 6.1 Sol，但用量頁可出現 gpt-6.2-sol；強調非官宣、公開目錄無正式 6.2。曝光極低但方法新。 核對：作者說介面仍顯示 6.1，用量頁可能出現字串 gpt-6.2-sol，並強調這不是官宣。這是使用者觀察，不是模型鑑定，也沒有作品畫面。",
+      "created_at": "2026-11-09 08:48:14 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "新窗",
+        "灰度檢測",
+        "用量ID",
+        "官方未確認"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "界面还写着 6.1 Sol，用量里却冒出 gpt-6.2-sol——很多人已经被灰度了。\n\n这不是官宣：公开目录还没有正式 6.2 Sol。社区实测说审美／Three.js／3D 网页感明显变强，当线索用。\n\n30 秒自测：\n1. Work／Codex 高推理丢一段 Three.js\n2. 设置→用量页找有没有 gpt-6.2-sol\n\n原来可以这样抓灰度：不盯选择器，盯用量 ID。\n\n你灰到了吗？评论区甩截图（打码）。",
+      "media": [],
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119397747124252806",
+      "slug": "adityaa-behera-252806",
+      "author": "adityaa_behera",
+      "author_url": "https://x.com/adityaa_behera",
+      "post_url": "https://x.com/adityaa_behera/status/2119397747124252806",
+      "section": "repost",
+      "title": "早期放大 TokenGremlin 黑洞：強調 one-shot、Three.js、單 HTML、早期測試勝過 Opus 5.5",
+      "summary": "早期放大 TokenGremlin 黑洞：強調 one-shot、Three.js、單 HTML、早期測試勝過 Opus 5.5。用戶側轉述。 核對：沒有自己的新畫面，轉述 TokenGremlin 的黑洞帖。",
+      "created_at": "2026-11-08 19:52:54 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "Three.js",
+        "轉述",
+        "用戶側判定"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "🚨GPT-6.2 Sol is reportedly rolling out to some users now.\n\nAnd HOLY SHIT, look at these results. \n\n- Beating Opus 5.5 in early one-shot tests\n- Generated an insane-looking black hole in one shot\n- Built with Three.js\n- Everything packed into a single HTML file\n\nGPT-6.2 Sol might actually be cooking.",
+      "media": [],
+      "metrics": {
+        "views": 4468,
+        "likes": 29,
+        "bookmarks": 5,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119409780691284404",
+      "slug": "kimmonismus-284404",
+      "author": "kimmonismus",
+      "author_url": "https://x.com/kimmonismus",
+      "post_url": "https://x.com/kimmonismus/status/2119409780691284404",
+      "section": "repost",
+      "title": "觀察多地用戶被路由；推測下周為發布週；引用 TokenGremlin 輸出",
+      "summary": "觀察多地用戶被路由；推測下周為發布週；引用 TokenGremlin 輸出。 核對：引用 TokenGremlin 的輸出，自己沒有另附作品。",
+      "created_at": "2026-11-08 20:40:43 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度觀察",
+        "高曝光"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": false,
+      "text": "It seems all over, users are being routed to GPT-6.2 Sol. \n\nLast week was a disappointment, no new model released. But now it looks like next week is finally the release week. And check out the outputs below. Crazy.",
+      "media": [],
+      "metrics": {
+        "views": 79268,
+        "likes": 1399,
+        "bookmarks": 222,
+        "reposts": 41,
+        "quotes": 2,
+        "replies": 92,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119413954950914258",
+      "slug": "smlay-ero-914258",
+      "author": "Smlay_ero",
+      "author_url": "https://x.com/Smlay_ero",
+      "post_url": "https://x.com/Smlay_ero/status/2119413954950914258",
+      "section": "repost",
+      "title": "轉述路由實測：one-shot、Three.js、單 HTML；稱測評勝過 Opus 5.5",
+      "summary": "轉述路由實測：one-shot、Three.js、單 HTML；稱測評勝過 Opus 5.5。 核對：沒有自己的新畫面，轉述同一則 Three.js 演示。",
+      "created_at": "2026-11-08 20:57:18 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "Three.js",
+        "單HTML",
+        "轉述"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "Some creators are getting routed to GPT-6.2 Sol. This model delivers another pleasant surprise on design and 3D work.\n \nTest results outperform Opus 5.5.\n \n- One-shot generation\n- Built with Three.js\n- Everything packaged inside a single HTML file\n\nSo when exactly are GPT-6.2 Sol and Astra dropping?",
+      "media": [],
+      "metrics": {
+        "views": 1163,
+        "likes": 20,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 16,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119421515464921360",
+      "slug": "siftbyte-921360",
+      "author": "SiftByte",
+      "author_url": "https://x.com/SiftByte",
+      "post_url": "https://x.com/SiftByte/status/2119421515464921360",
+      "section": "repost",
+      "title": "並列影片：自稱第一支為路由 GPT-6.2 Sol、另一支 Opus 5.5；稱能力大致持平，並預測 Astra≈Fable 5.5",
+      "summary": "並列影片：自稱第一支為路由 GPT-6.2 Sol、另一支 Opus 5.5；稱能力大致持平，並預測 Astra≈Fable 5.5。用戶側判定。 核對：第一支媒體與 @JangXiin 的帖相同，該帖寫的是 Opus 5.5 one-shot。第二支與 @TokenGremlin 自稱為 Sol 的黑洞相同。這則卻寫「第一支是 Sol、另一支是 Opus」，和兩邊原帖相反，所以不進畫廊。",
+      "created_at": "2026-11-08 21:27:20 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "vs Opus 5.5",
+        "用戶側判定"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "The first video is from GPT-6.2 Sol, as many people have routed to it, and the other is Opus 5.5.\n\nGPT-6.2 Sol is very much on par with Opus 5.5 in capability.\n\nGPT-6.2 Astra will surely be on par with Fable 5.5; OpenAI is cooking something really cool, and we are not expecting it.\nhttps://x.com/JangXiin/status/2119412773293797526/video/1 https://x.com/TokenGremlin/status/2119395930805879165/video/1",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 9.904,
+          "width": 1730,
+          "height": 1092,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119411446148673536/img/08nrCq2uMh5-fflP.jpg"
+        },
+        {
+          "type": "video",
+          "duration_seconds": 5.566,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119394874591944704/img/F0D_beICGEBB-esh.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1726,
+          "height": 1484,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXHGWQAAuobC.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1441,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXZqWoAATpMr.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 2563,
+        "likes": 26,
+        "bookmarks": 2,
+        "reposts": 2,
+        "quotes": 0,
+        "replies": 5,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119423039678910754",
+      "slug": "daniel-mac8-910754",
+      "author": "daniel_mac8",
+      "author_url": "https://x.com/daniel_mac8",
+      "post_url": "https://x.com/daniel_mac8/status/2119423039678910754",
+      "section": "repost",
+      "title": "預測：Sol 11/9 發、優於 Opus 5.5；Astra 11/12、對齊 Fable 5.5；更省約50%",
+      "summary": "預測：Sol 11/9 發、優於 Opus 5.5；Astra 11/12、對齊 Fable 5.5；更省約50%。非實測，屬預測帖。 核對：正文寫預測，並註明影片來自 @TokenGremlin。媒體與黑洞原帖相同，不另計。",
+      "created_at": "2026-11-08 21:33:24 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "預測",
+        "背景／傳聞",
+        "發布排期傳聞",
+        "官方未確認"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "Predictions:\n\n- GPT-6.2 Sol released Monday, Nov. 9th\n- Better than Opus 5.5\n- GPT-6.2 Astra released Thursday, Nov. 12th\n- On par with Fable 5.5\n- Both significantly more efficient than Claude\n- ~50% less expensive\n- OpenAI is so back\n\nOpus 5.5 has been the crown prince of AI for too long. Sol is coming to knock him off his perch.\n\nVideo is from @TokenGremlin, who says he's been routed to GPT-6.2 Sol. https://x.com/TokenGremlin/status/2119395930805879165/video/1",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.566,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119394874591944704/img/F0D_beICGEBB-esh.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1726,
+          "height": 1484,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXHGWQAAuobC.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1441,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXZqWoAATpMr.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 50125,
+        "likes": 437,
+        "bookmarks": 57,
+        "reposts": 20,
+        "quotes": 2,
+        "replies": 41,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119423660381610370",
+      "slug": "super-nius-610370",
+      "author": "Super_Nius",
+      "author_url": "https://x.com/Super_Nius",
+      "post_url": "https://x.com/Super_Nius/status/2119423660381610370",
+      "section": "repost",
+      "title": "灰測前端能力升級，稱接近 Opus 5.5，並強調仍只是 Sol 非 Astra",
+      "summary": "灰測前端能力升級，稱接近 Opus 5.5，並強調仍只是 Sol 非 Astra。 核對：所附影片和圖片與 TokenGremlin 的黑洞帖是同一組媒體。",
+      "created_at": "2026-11-08 21:35:52 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "前端"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "卧槽GPT-6.2 Sol灰测实际效果，甚至接近Opus5.5地表现了！但这只是Sol啊！还不是Astra..........\n\n整个前端能力GPT-6.2 Sol都做了大升级，狠狠期待",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.566,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119394874591944704/img/F0D_beICGEBB-esh.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1726,
+          "height": 1484,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXHGWQAAuobC.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1441,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWmbXZqWoAATpMr.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 560,
+        "likes": 2,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119433127810777099",
+      "slug": "ai-funss-777099",
+      "author": "ai_funss",
+      "author_url": "https://x.com/ai_funss",
+      "post_url": "https://x.com/ai_funss/status/2119433127810777099",
+      "section": "repost",
+      "title": "灰度檢測：選 6.1 Sol Max，問「do you know Fable 5 (no web search)」；並稱 3D 效果強",
+      "summary": "灰度檢測：選 6.1 Sol Max，問「do you know Fable 5 (no web search)」；並稱 3D 效果強。 核對：圖片是 TokenGremlin 黑洞的靜幀。正文是 Fable 5 檢測法，不是新的 3D 作品。",
+      "created_at": "2026-11-08 22:13:29 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "Fable",
+        "Three.js"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "GPT-6.2-Sol 开始灰度了！！！3D效果超好💥！！！\n\n选择 GPT-6.1-Sol Max思考模式，然后输入：「do you know Fable 5 (no web search)」\n\n如果它知道 Fabel 5.5，那就说明灰度到 GPT-6.2-Sol 了",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1726,
+          "height": 1484,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWm8nhQboAA5zro.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 2672,
+        "likes": 6,
+        "bookmarks": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 5,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119437157068890174",
+      "slug": "leo114119-890174",
+      "author": "leo114119",
+      "author_url": "https://x.com/leo114119",
+      "post_url": "https://x.com/leo114119/status/2119437157068890174",
+      "section": "repost",
+      "title": "黑洞模擬對比：感覺 Sol 略優於 Opus 5.5",
+      "summary": "黑洞模擬對比：感覺 Sol 略優於 Opus 5.5。 核對：影片與 TokenGremlin 標成 Sol／Opus 的黑洞對照是同一支。這裡是轉述，不是新測試。",
+      "created_at": "2026-11-08 22:29:30 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "黑洞"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "Gpt 6.2 SOL 似乎真的经 Opus 5.5 要好一点\n在黑洞模拟这个测试中。。。。",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 9.9,
+          "width": 1080,
+          "height": 1512,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119423566944854016/img/RX0joNUoH2bqKqYB.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 1600,
+        "likes": 17,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 9,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119497752325611587",
+      "slug": "xingzengji-611587",
+      "author": "xingzengji",
+      "author_url": "https://x.com/xingzengji",
+      "post_url": "https://x.com/xingzengji/status/2119497752325611587",
+      "section": "repost",
+      "title": "轉述同 prompt 成本對比：Sol ~20分/$9 vs Opus ~1h/$20",
+      "summary": "轉述同 prompt 成本對比：Sol ~20分/$9 vs Opus ~1h/$20。 核對：轉述 20 分鐘／9 美元對 1 小時／20 美元。影片時長與尺寸和 @vikktorrrre 的錦鯉池對照一致，縮圖 id 不同，沒有看到獨立的新測試。",
+      "created_at": "2026-11-09 02:30:17 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "額度／成本",
+        "轉述"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "卧槽！GPT-6.2 Sol 这把是真能赢 Opus 5.5 啊！\n\n一个国外的老哥拿同样的提示词测试，对比如下：\n\n- GPT-6.2 Sol：耗时大约 20 分钟，成本 9 美元。 \n- Opus 5.5：耗时 1 小时，成本 20 美元。\n\nOpus 5.5 整体还是很优秀，但 GPT-6.2 Sol 处理了更多优于 Opus 的细节，关键是它更快、也更便宜。",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 35.466,
+          "width": 1920,
+          "height": 736,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119496112109494272/img/scW20F8H_OpFXYG0.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 3279,
+        "likes": 16,
+        "bookmarks": 2,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 8,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119505138696298860",
+      "slug": "cranelanos-298860",
+      "author": "CranelAnos",
+      "author_url": "https://x.com/CranelAnos",
+      "post_url": "https://x.com/CranelAnos/status/2119505138696298860",
+      "section": "repost",
+      "title": "轉述／加碼 marcthecreatorr 帆船 Three.js 對比：稱 Sol 畫面整體更好、Opus 霸權結束中；並問能否扛住 Opus Next",
+      "summary": "轉述／加碼 marcthecreatorr 帆船 Three.js 對比：稱 Sol 畫面整體更好、Opus 霸權結束中；並問能否扛住 Opus Next。 核對：帆船影片與 @marcthecreatorr 的對照相同，帖文也寫了出處。",
+      "created_at": "2026-11-09 02:59:38 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "Three.js",
+        "vs Opus 5.5",
+        "轉述"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "3D Sailing Ship Test in three.js Code.\n\nGPT 6.2 Sol has Overall Better Graphics.\nGPT 6.2 Sol Keeps Winning.\nYeah Opus 5.5 Supremacy is Ending.\n\nBut but but can it Hold it's Ground against Opus Next?.\n\nCredits: @marcthecreatorr.",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 49.466,
+          "width": 2160,
+          "height": 2160,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119502925797953536/img/wiZ1ZbgBM5mZnQY9.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 1247,
+        "likes": 17,
+        "bookmarks": 3,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 4,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119510410751795268",
+      "slug": "super-nius-795268",
+      "author": "Super_Nius",
+      "author_url": "https://x.com/Super_Nius",
+      "post_url": "https://x.com/Super_Nius/status/2119510410751795268",
+      "section": "repost",
+      "title": "中文對比轉述：左 Opus 5.5／右自稱 GPT-6.2 Sol 的四場景 SVG（月球站、咖啡機、唱機、溫室）；稱 Sol 更暖更滿料",
+      "summary": "中文對比轉述：左 Opus 5.5／右自稱 GPT-6.2 Sol 的四場景 SVG（月球站、咖啡機、唱機、溫室）；稱 Sol 更暖更滿料。來源轉引社群對比影片。 核對：影片與 @Ananth7e 的「Opus 5.5 vs GPT-6.2 Sol: animated SVGs」是同一支。該預覽的左欄小字寫 Archived footage、Original video labeled Opus 5.2，右欄小字寫 SVGs generated with GPT-6.1 Sol，和標題上的 5.5／6.2 衝突。底部有一小段提示詞，字級不足以逐字抄錄，因此不收入 prompts/。不計入畫廊。",
+      "created_at": "2026-11-09 03:20:35 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "SVG",
+        "vs Opus 5.5",
+        "中文"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "卧槽！GPT-6.2 Sol这SVG效果绝对碾压Opus5.5了吧？\n\n左边 Opus 5.5，右边 GPT-6.2 Sol，四个场景——月球快递站、意式咖啡机做卡布奇诺、黑胶唱机、会开花的玻璃温室。\n\n🌟Opus 那边线条干净、扁平利落，像正经的矢量设计稿\n\n🌟GPT-6.2 Sol 那边色彩更暖、质感更满，像杂志插画，咖啡机拉花、温室木纹这些细节明显更舍得下料。\n https://x.com/ananth7e/status/2119473497504428334/video/1",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 137,
+          "width": 3840,
+          "height": 2160,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119472766353313794/img/gh9t1WaYqYWa0fYz.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 716,
+        "likes": 4,
+        "bookmarks": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119524264890007772",
+      "slug": "jotarokujox-007772",
+      "author": "JotaroKujoX",
+      "author_url": "https://x.com/JotaroKujoX",
+      "post_url": "https://x.com/JotaroKujoX/status/2119524264890007772",
+      "section": "repost",
+      "title": "聚焦帳單：轉述帆船測 Sol ~27分/$3 vs Opus ~1h35/$16；提醒單次測試＋未官宣",
+      "summary": "聚焦帳單：轉述帆船測 Sol ~27分/$3 vs Opus ~1h35/$16；提醒單次測試＋未官宣。 核對：討論帆船測試的帳單，引用 @marcthecreatorr，沒有自己的新畫面。",
+      "created_at": "2026-11-09 04:15:38 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "額度／成本",
+        "對比",
+        "轉述"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "GPT-6.2 Sol 的对比视频刷了一晚上，我觉得最该看的不是画面，是账单。\n\n@marcthecreatorr 用同一句 prompt 让两边用 Three.js 做可交互的帆船。Sol 大约 27 分钟、花了 3 美元；Opus 5.5 开最高推理跑了 1 小时 35 分、花了 16 美元。画面谁更好见仁见智，但时间和钱差了五倍左右。\n\n也有人说这些演示全是炒作，毕竟只是单次测试，OpenAI 也没宣布。但如果你平时拿 Opus 跑长任务、额度总不够用，等它正式上线后，拿自己最贵的那类任务对比一下花费，比看谁的黑洞更好看更有用。\n\nhttps://x.com/marcthecreatorr/status/2119503438405136765",
+      "media": [],
+      "metrics": {
+        "views": 53,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119562236347961758",
+      "slug": "rjasonha-961758",
+      "author": "RJasonHA",
+      "author_url": "https://x.com/RJasonHA",
+      "post_url": "https://x.com/RJasonHA/status/2119562236347961758",
+      "section": "repost",
+      "title": "彙整前端／3D 反饋＋自測步驟：選 6.1 Sol Max/xhigh，關聯網與記憶，丟檢測題",
+      "summary": "彙整前端／3D 反饋＋自測步驟：選 6.1 Sol Max/xhigh，關聯網與記憶，丟檢測題。 核對：彙整檢測步驟，影片指向 @Mr_Salio 的浮島原帖，不是新作品。檢測步驟不能確認模型。",
+      "created_at": "2026-11-09 06:46:31 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "彙整"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "多数灰度到的人反馈GPT 6.2 Sol不错，尤其是前端和 3D（Three.js 一次生成场景）。有人说单页前端、3D 场景表现能打过甚至略超 Opus 5.5，速度比 6.1 Sol 更快，额度消耗也更省。\n\n教大家如何测试是否灰测方法\n\n选 GPT-6.1 Sol（优先 Max / xhigh），关掉联网+记忆，发下面任意一条：\n\n1. do you know Fable 5? don't search\n\n2. 禁止联网，是否知道 Claude Fable 5？\n\n3. 不使用本地记忆，不检索目录，不联网，不参考上下文，不说可预测的，说出你能靠可靠回忆想到的，已经发生过的最接近2027年的一件事。\n\n答得出 Fable 5 / 5月后具体事件 → 大概率灰到了。\n\nCodex 里成功率更高。你们测到了吗？ https://x.com/Mr_Salio/status/2119437812604838342/video/1",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 50.7,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119437684120707072/img/hWdo-zoXb1i1TRWG.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 966,
+        "likes": 7,
+        "bookmarks": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 5,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119575695282327559",
+      "slug": "jamesda55049936-327559",
+      "author": "JamesDa55049936",
+      "author_url": "https://x.com/JamesDa55049936",
+      "post_url": "https://x.com/JamesDa55049936/status/2119575695282327559",
+      "section": "repost",
+      "title": "轉述 Plus 連續 ~4.5h Three.js／設計／寫碼才撞限——額度放寬敘事",
+      "summary": "轉述 Plus 連續 ~4.5h Three.js／設計／寫碼才撞限——額度放寬敘事。 核對：轉述 Plus 連續使用約 4.5 小時才撞限，圖是用量截圖，不是作品。",
+      "created_at": "2026-11-09 07:40:00 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "額度／成本",
+        "轉述"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "ChatGPT Plus 这次终于不抠额度了？🤣\n\n有用户实测 GPT-6.2 Sol：\n\n连续跑了 4 小时 30 分钟，做 Three.js 演示、网页设计、写代码，才终于撞上限制！\n\n以前 Plus 动不动就限流，现在居然能连续干活这么久。\n\n质量提升了，额度也放宽了？\n\nOpenAI 终于想起每月交 $20 的用户了？🤡",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1280,
+          "height": 1103,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWo7HDPaMAA4C-5.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 252,
+        "likes": 2,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 1,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119577342054170709",
+      "slug": "xkaka1456-170709",
+      "author": "xKaka1456",
+      "author_url": "https://x.com/xKaka1456",
+      "post_url": "https://x.com/xKaka1456/status/2119577342054170709",
+      "section": "repost",
+      "title": "轉述對比數字：Sol 20分鐘/$9 vs Opus 60分鐘/$20（與 vikk 帖一致口徑）",
+      "summary": "轉述對比數字：Sol 20分鐘/$9 vs Opus 60分鐘/$20（與 vikk 帖一致口徑）。 核對：影片與 @vikktorrrre 的錦鯉池對照是同一支媒體。",
+      "created_at": "2026-11-09 07:46:32 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "對比",
+        "轉述"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "GPT-6.2 Sol 完全碾压了 Opus 5.5，不仅速度快，成本低，效果也相当好。\n\nGPT-6.2 Sol：20 分钟，9 美元。\nOpus 5.5：60 分钟，20 美元。",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 35.466,
+          "width": 1920,
+          "height": 736,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119473584762396672/img/lnAT6YCtSxqTjDkn.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 512,
+        "likes": 8,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 8,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119578715399327947",
+      "slug": "cfenghub-327947",
+      "author": "cfenghub",
+      "author_url": "https://x.com/cfenghub",
+      "post_url": "https://x.com/cfenghub/status/2119578715399327947",
+      "section": "repost",
+      "title": "轉述 Three.js 單 HTML 村莊實測：零外部資產、晝夜光影；強調價格與性能敘事",
+      "summary": "轉述 Three.js 單 HTML 村莊實測：零外部資產、晝夜光影；強調價格與性能敘事。 核對：轉述村莊演示。影片與 @TokenGremlin 的櫻花村莊原帖相同，畫廊已改記原帖。",
+      "created_at": "2026-11-09 07:52:00 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "Three.js",
+        "單HTML",
+        "轉述測評"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "“价格大幅打下来的同时，性能竟然还反杀了 GPT-6 Astra！”\nGPT-6.2 Sol将会很快上线，大家熟悉好用的GPT又回来了！\n\n灰度 GPT-6.2 Sol 的博主直接甩出了实测案例：不靠 Blender，零外部 3D 资产，纯代码直接用 Three.js 手搓出一个完整村庄，全打包在一个单 HTML 文件里：\n\n- 零素材纯代码生成：\n樱花林、蜿蜒河流、层叠农舍与农田全由代码算法生成，没有依赖任何外部现成的 3D 模型包；\n\n- 动态光影与状态流转：\n场景原生支持昼夜平滑渐变，入夜后窗户透出柔和的动态暖光，配合远山冷月，渲染氛围感直接拉满；\n\n这次 Sol 调用不仅更便宜，纯代码交付从传统的写前端组件，直接快进到“单页 HTML 可交付 3D”。\n这种高密度的空间几何和环境光影解算，正变成大模型的标配能力！期待吧，量大管饱又好用的GPT快回来了！ https://x.com/TokenGremlin/status/2119409785900552548/video/1",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 5.366,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119409755286384640/img/FUyYzAl2XbSN0HDB.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 397,
+        "likes": 3,
+        "bookmarks": 2,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119580736315342972",
+      "slug": "chrishkai-342972",
+      "author": "ChrisHKAI",
+      "author_url": "https://x.com/ChrisHKAI",
+      "post_url": "https://x.com/ChrisHKAI/status/2119580736315342972",
+      "section": "repost",
+      "title": "用 Sam Altman 主題測試 GPT-6.2 Sol",
+      "summary": "用 Sam Altman 主題測試 GPT-6.2 Sol。 核對：影片與 @Ananth7e「paints sam altman」是同一支媒體。",
+      "created_at": "2026-11-09 08:00:02 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "用Sam Altman 测试GPT-6.2 Sol",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 35,
+          "width": 1160,
+          "height": 1200,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119471570100113408/img/fozT2Bh7cobCx57_.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 90,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119588278232109363",
+      "slug": "chrishkai-109363",
+      "author": "ChrisHKAI",
+      "author_url": "https://x.com/ChrisHKAI",
+      "post_url": "https://x.com/ChrisHKAI/status/2119588278232109363",
+      "section": "repost",
+      "title": "轉述卡茲克灰度；複用《時間的盡頭》Three.js prompt，感覺比 Astra 強",
+      "summary": "轉述卡茲克灰度；複用《時間的盡頭》Three.js prompt，感覺比 Astra 強。 核對：影片和《時間的盡頭》提示詞都與 @Khazix0918 原帖相同，不另建提示詞檔。",
+      "created_at": "2026-11-09 08:30:00 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "轉述"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "卡兹克灰度路由到了GPT-6.2 Sol\n\n用了下面的提示词去测试\n\n感觉比Astra强多了\n\nPrompt：“请使用 Three.js 创作一个主题为《时间的尽头》的 3D 交互式网页。\n充分发挥你最顶级的审美、艺术设计和 3D 编程能力，在构图、光影、材质、粒子、动画和空间氛围上做到极致。画面需要有令人震撼的视觉表现力，并且可以通过鼠标自由交互。\n不限制你的创意和技术方案，尽可能展示你的能力上限。请直接完成开发、运行和测试，交付一个真正可玩的作品。” https://x.com/Khazix0918/status/2119507514459144677/video/1",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 18,
+          "width": 1920,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119507467990413312/img/dCMmCV5ohy_PaqTY.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 37,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119592091785535536",
+      "slug": "yulmu-coffee-535536",
+      "author": "yulmu_coffee",
+      "author_url": "https://x.com/yulmu_coffee",
+      "post_url": "https://x.com/yulmu_coffee/status/2119592091785535536",
+      "section": "repost",
+      "title": "【08:40後新帖】韓文：自稱 GPT-6.2 Sol computer-use 畫 Sam Altman 的 time-lapse 影片",
+      "summary": "【08:40後新帖】韓文：自稱 GPT-6.2 Sol computer-use 畫 Sam Altman 的 time-lapse 影片。用戶側演示；曝光尚低。 核對：開頭幀與 @Ananth7e 畫 Sam Altman 幾乎同一格（色號 #42372d、同一張參考照、825×875、Block-in），多了一支紅箭頭。時長 316.8 秒，媒體 id 不同，但不能當成第二件已核實的獨立作品。",
+      "created_at": "2026-11-09 08:45:09 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "新窗",
+        "測試／測評",
+        "computer-use",
+        "用戶側判定"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "GPT-6.2 Sol이 computer-use로 샘 알트만을 그리는 타임랩스.\n\n이런 기법을 뭐라고 하나요?",
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 316.8,
+          "width": 928,
+          "height": 960,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119481355943948288/img/sV7ysxkDvmJAnUcU.jpg"
+        }
+      ],
+      "metrics": {
+        "views": 63,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119441107205718464",
+      "slug": "ai-funss-718464",
+      "author": "ai_funss",
+      "author_url": "https://x.com/ai_funss",
+      "post_url": "https://x.com/ai_funss/status/2119441107205718464",
+      "section": "opinion",
+      "title": "測評向：灰度到 6.2 Sol 後「防御性回复」改善——不再動輒「不能確定／不證明」",
+      "summary": "測評向：灰度到 6.2 Sol 後「防御性回复」改善——不再動輒「不能確定／不證明」。 核對：正文在談防禦性回覆變少。所附圖片是知識截止問答，介面標 GPT-6.1 Sol 極高，不是生成畫面。",
+      "created_at": "2026-11-08 22:45:11 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "防御性"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "网友灰度到了 GPT-6.2-Sol ，终于改掉了防御性回复的臭毛病\n\nGPT-6.2-Sol 不再说「不能确定xxx、不证明xxxx」",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1184,
+          "height": 1000,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnEHCNbIAAx71J.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1230,
+          "height": 172,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnEQIQa0AAC68-.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 33825,
+        "likes": 78,
+        "bookmarks": 12,
+        "reposts": 2,
+        "quotes": 3,
+        "replies": 17,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119460639345369425",
+      "slug": "harshithlucky3-369425",
+      "author": "HarshithLucky3",
+      "author_url": "https://x.com/HarshithLucky3",
+      "post_url": "https://x.com/HarshithLucky3/status/2119460639345369425",
+      "section": "opinion",
+      "title": "反方：Opus 5.5 >>> GPT 6.2 Sol（並預判會被質疑「你沒路由到」）",
+      "summary": "反方：Opus 5.5 >>> GPT 6.2 Sol（並預判會被質疑「你沒路由到」）。",
+      "created_at": "2026-11-09 00:02:48 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "對比",
+        "反方"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "Opus 5.5 >>> GPT 6.2 Sol\n\n(now few people will come and say, \"you're not routed to 6.2 Sol\")",
+      "media": [],
+      "metrics": {
+        "views": 2763,
+        "likes": 28,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 15,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119462074971480136",
+      "slug": "tokengremlin-480136",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119462074971480136",
+      "section": "opinion",
+      "title": "短評「GPT-6.2 Sol > Opus 5.5」，引發大量引用／對比測試",
+      "summary": "短評「GPT-6.2 Sol > Opus 5.5」，引發大量引用／對比測試。",
+      "created_at": "2026-11-09 00:08:31 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "對比",
+        "主張"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "GPT-6.2 Sol > Opus 5.5",
+      "media": [],
+      "metrics": {
+        "views": 66434,
+        "likes": 650,
+        "bookmarks": 30,
+        "reposts": 11,
+        "quotes": 5,
+        "replies": 96,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119490708876955697",
+      "slug": "tokengremlin-955697",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119490708876955697",
+      "section": "opinion",
+      "title": "個人測評長文：遠超 6.1 Sol、設計口味優於 Opus 5.5、比 Max 下 Astra 更好；數十次 Three.js/WebGPU 測試僅耗約 10%",
+      "summary": "個人測評長文：遠超 6.1 Sol、設計口味優於 Opus 5.5、比 Max 下 Astra 更好；數十次 Three.js/WebGPU 測試僅耗約 10% 的 $200 Pro 額度；期待 Plus 也有寬裕用量。",
+      "created_at": "2026-11-09 02:02:17 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "對比",
+        "額度"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "My thoughts on GPT-6.2 Sol so far, based on my own tests:\n\nIt's a massive leap over GPT-6.1 Sol. What's even more impressive is that I'm getting better results than GPT-6 Astra, even in Max mode. I prefer its design taste to Opus 5.5's, and it's incredibly fast.\n\nA few things really stand out:\n\n- I've run dozens of Three.js, WebGPU, and HTML tests and barely used 10% of my $200 Pro allowance.\n- It's creative from the first response. I don't have to keep asking for changes to get something beautiful.\n- So many first attempts already make me go, “Holy shit, this looks incredible!”\n\nThe limits are honestly what impressed me most. Being able to keep trying ideas without worrying about suddenly running out makes a huge difference when you're using something every day.\n\nAnd the best part? It's coming to Plus with generous usage limits too.\n\nThis is what I've wanted from OpenAI. Not just better answers, but enough room to actually enjoy using it.",
+      "media": [],
+      "metrics": {
+        "views": 72114,
+        "likes": 1149,
+        "bookmarks": 148,
+        "reposts": 24,
+        "quotes": 8,
+        "replies": 91,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119505038246916496",
+      "slug": "timjayas-916496",
+      "author": "TimJayas",
+      "author_url": "https://x.com/TimJayas",
+      "post_url": "https://x.com/TimJayas/status/2119505038246916496",
+      "section": "opinion",
+      "title": "反方觀點：多數 6.2 Sol 帖是誇大；未見 6.2 能做而 6.1 不能的事；.1 升級難合理化「大幅勝過 Opus 5.5」",
+      "summary": "反方觀點：多數 6.2 Sol 帖是誇大；未見 6.2 能做而 6.1 不能的事；.1 升級難合理化「大幅勝過 Opus 5.5」。",
+      "created_at": "2026-11-09 02:59:14 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "反方／質疑",
+        "用戶側判定",
+        "非盲測"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "most of the gpt-6.2-sol posts are just exaggerated hype\n\ni’ve not seen a single person post something gpt-6.2-sol does that gpt-6.1-sol can’t, and it’s just .1 upgrade so it doesn’t make sense it significantly beats opus 5.5",
+      "media": [],
+      "metrics": {
+        "views": 804,
+        "likes": 13,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 6,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119515145382633524",
+      "slug": "mr-salio-633524",
+      "author": "Mr_Salio",
+      "author_url": "https://x.com/Mr_Salio",
+      "post_url": "https://x.com/Mr_Salio/status/2119515145382633524",
+      "section": "opinion",
+      "title": "Plus $20：6.1 Max 路由到 6.2 Sol 連續跑約4.5小時才撞限；多個 Three.js／網頁設計／編程實驗",
+      "summary": "Plus $20：6.1 Max 路由到 6.2 Sol 連續跑約4.5小時才撞限；多個 Three.js／網頁設計／編程實驗。 核對：圖片是 Work 用量用盡的對話框，不是 Three.js 作品。",
+      "created_at": "2026-11-09 03:39:24 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "額度"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "GPT-6.2 sol limits are insane on plus plan \n\nI am on $20 plan now and I've been running ( Gpt 6.1 Max routing to gpt 6.2 sol ) for almost 4 hours and 30 minutes straight nonstop and I'm only hitting my limits now\n\nI've built multiple Three.js demos tested web design test ( I'll share them more soon ) run coding experiments and even used it extensively on my own project which has been running for almost 4 hours\n\nOpenAI seems to be fixing a lot of things with this release Better quality AND significantly more usable limits\n\nThis is a huge improvement for Plus users",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1280,
+          "height": 1103,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoHx5FW4AAwDeT.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 24052,
+        "likes": 205,
+        "bookmarks": 42,
+        "reposts": 5,
+        "quotes": 2,
+        "replies": 31,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119550763491897758",
+      "slug": "tjeparskis-897758",
+      "author": "TJeparskis",
+      "author_url": "https://x.com/TJeparskis",
+      "post_url": "https://x.com/TJeparskis/status/2119550763491897758",
+      "section": "opinion",
+      "title": "額度觀察：全日幾乎不間斷仍未撞 5 小時限額，懷疑被路由到 6.2 Sol；預測 Sol 週二、Astra 週四交錯發布",
+      "summary": "額度觀察：全日幾乎不間斷仍未撞 5 小時限額，懷疑被路由到 6.2 Sol；預測 Sol 週二、Astra 週四交錯發布。官方未確認。",
+      "created_at": "2026-11-09 06:00:56 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "額度／限流",
+        "排期預測",
+        "用戶側判定"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "I’m not sure if my GPT-6.1 Sol was secretly routed to GPT-6.2 Sol, but it was burning through my usage limits unusually slowly today!\n\nI was giving it tasks practically nonstop all day, and I didn’t hit the 5-hour limit even once. My allowance always lasted until the next reset!\n\nIf that really was GPT-6.2 Sol, then even Plus users might be pleasantly surprised by the limits!\n\nMy prediction: Sol on Tuesday, Astra on Thursday. OpenAI has staggered model releases before, and I think we’re about to see it happen again!",
+      "media": [],
+      "metrics": {
+        "views": 2069,
+        "likes": 14,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 6,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119571164116972024",
+      "slug": "thanksutrump-972024",
+      "author": "ThanksuTrump",
+      "author_url": "https://x.com/ThanksuTrump",
+      "post_url": "https://x.com/ThanksuTrump/status/2119571164116972024",
+      "section": "opinion",
+      "title": "轉述卡茲克向：並發20前端測10分鐘，$200 Pro 額度只掉1%；審美與防禦改善",
+      "summary": "轉述卡茲克向：並發20前端測10分鐘，$200 Pro 額度只掉1%；審美與防禦改善。 核對：主旨是 200 美元額度只掉 1%。截圖裡有山水成片，但介面標 GPT-6.1 Sol Max，不把這張工作階段截圖算成 6.2 畫廊作品。",
+      "created_at": "2026-11-09 07:21:59 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "測試／測評",
+        "額度",
+        "轉述"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "灰度路由到GPT-6.2 Sol后，并发跑了20个前端测试，持续10分钟，200刀Pro额度只掉了1%。这波用量确实低得让人意外。\n\n之前简单试过这模型，审美表现很强，防御性问题也有明显改善。现在额度消耗这么轻，加上审美和安全方面的变化，有人开始觉得OpenAI这次可能真的要回来了。",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 2940,
+          "height": 1692,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWo6ughbsAANaLQ.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 792,
+        "likes": 14,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 17,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119575058305753202",
+      "slug": "yfeng2022-753202",
+      "author": "YFeng2022",
+      "author_url": "https://x.com/YFeng2022",
+      "post_url": "https://x.com/YFeng2022/status/2119575058305753202",
+      "section": "opinion",
+      "title": "質疑：如何判定真是 6.2 Sol？覺得表演成分重",
+      "summary": "質疑：如何判定真是 6.2 Sol？覺得表演成分重。",
+      "created_at": "2026-11-09 07:37:28 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "質疑"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "一早起来\n铺天盖地的都是自己路由到GPT-6.2 Sol\n我很好奇那些自称自己灰度到GPT-6.2 Sol朋友\n是如何判定是GPT-6.2 Sol？\n我很尊重他们展示GPT的表现\n但是这种很表演，有点让人觉得很荒诞！！！",
+      "media": [],
+      "metrics": {
+        "views": 231,
+        "likes": 2,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119587087771185405",
+      "slug": "argofowl-185405",
+      "author": "argofowl",
+      "author_url": "https://x.com/argofowl",
+      "post_url": "https://x.com/argofowl/status/2119587087771185405",
+      "section": "opinion",
+      "title": "引用 vikktorrrre 對比帖反駁：1) Opus 5.5 更好；2) 那不是 gpt sol 6.2",
+      "summary": "引用 vikktorrrre 對比帖反駁：1) Opus 5.5 更好；2) 那不是 gpt sol 6.2。用戶側反方判定。",
+      "created_at": "2026-11-09 08:25:16 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "反方／質疑",
+        "vs Opus 5.5",
+        "用戶側判定"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": true,
+      "text": "1. opus 5.5 did better\n\n2. this is not gpt sol 6.2",
+      "media": [],
+      "metrics": {
+        "views": 574,
+        "likes": 7,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119483953354842554",
+      "slug": "dummerspast39-842554",
+      "author": "dummerspast39",
+      "author_url": "https://x.com/dummerspast39",
+      "post_url": "https://x.com/dummerspast39/status/2119483953354842554",
+      "section": "rumor",
+      "title": "用戶側傳聞：內線稱 GPT-6.2 Sol 下週四發布、Codex 已有人用到；並稱會贏 Opus 5.5 且成本約三分之一，Astra 因安全問題稍晚",
+      "summary": "用戶側傳聞：內線稱 GPT-6.2 Sol 下週四發布、Codex 已有人用到；並稱會贏 Opus 5.5 且成本約三分之一，Astra 因安全問題稍晚。官方未確認；與「Tomorrow.」是否同一事仍不明。",
+      "created_at": "2026-11-09 01:35:27 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "傳聞／排期",
+        "用戶側判定",
+        "官方未確認",
+        "成本傳聞",
+        "背景／傳聞",
+        "發布排期傳聞"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "GPT-6.2 Sol is set to release next Thursday!\n\nGood morning friends! Ive heard from some insiders that the release is finally happening next week, and some people already have access to it in Codex.\n\nFrom what i've been told, Sol will be the most intelligent model ever released!! beating Opus 5.5 while costing only a third as much.\n\nAt least until GPT-6.2 Astra arrives😻. Which is taking a bit longer due to some serious security concerns.",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1885,
+          "height": 2403,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnradBXcAAZxMo.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1200,
+          "height": 1459,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWnra7jWQAE-A0h.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 42028,
+        "likes": 327,
+        "bookmarks": 68,
+        "reposts": 13,
+        "quotes": 4,
+        "replies": 38,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119505841883640170",
+      "slug": "tokengremlin-640170",
+      "author": "TokenGremlin",
+      "author_url": "https://x.com/TokenGremlin",
+      "post_url": "https://x.com/TokenGremlin/status/2119505841883640170",
+      "section": "rumor",
+      "title": "TokenGremlin 傳聞：Anthropic 本週可能連發安全／對齊／節奏相關部落格，以對衝 GPT-6.2 Astra／Sol",
+      "summary": "TokenGremlin 傳聞：Anthropic 本週可能連發安全／對齊／節奏相關部落格，以對衝 GPT-6.2 Astra／Sol。官方未確認。",
+      "created_at": "2026-11-09 03:02:25 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "傳聞",
+        "Anthropic",
+        "用戶側判定",
+        "官方未確認",
+        "背景／傳聞"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "Important: I've heard that Anthropic is planning to publish a few blog posts about safety, alignment, and pacing this week to counter GPT-6.2 Astra and Sol. Get ready.",
+      "media": [],
+      "metrics": {
+        "views": 14153,
+        "likes": 409,
+        "bookmarks": 22,
+        "reposts": 5,
+        "quotes": 2,
+        "replies": 31,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119519134182494562",
+      "slug": "jessexai--494562",
+      "author": "jessexai_",
+      "author_url": "https://x.com/jessexai_",
+      "post_url": "https://x.com/jessexai_/status/2119519134182494562",
+      "section": "rumor",
+      "title": "傳聞：Anthropic 會在 OpenAI 週四發 GPT-6.2 Sol 後 30 分鐘丟 Fable 5.5",
+      "summary": "傳聞：Anthropic 會在 OpenAI 週四發 GPT-6.2 Sol 後 30 分鐘丟 Fable 5.5。官方未確認；與 dummerspast 週四說呼應。",
+      "created_at": "2026-11-09 03:55:15 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "傳聞／排期",
+        "Fable 5.5",
+        "官方未確認",
+        "背景／傳聞",
+        "發布排期傳聞"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": false,
+      "text": "Important: I've heard that Anthropic is going to drop fable 5.5 thirty minutes after Openai drops GPT-6.2 Sol on thursday.",
+      "media": [],
+      "metrics": {
+        "views": 1855,
+        "likes": 20,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 7,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119562665899262373",
+      "slug": "policifyai-262373",
+      "author": "Policifyai",
+      "author_url": "https://x.com/Policifyai",
+      "post_url": "https://x.com/Policifyai/status/2119562665899262373",
+      "section": "rumor",
+      "title": "周末「掉落」盤點：6.2 Sol「部分用戶路由、無人正式確認」；今日能用模型仍同週五",
+      "summary": "周末「掉落」盤點：6.2 Sol「部分用戶路由、無人正式確認」；今日能用模型仍同週五。",
+      "created_at": "2026-11-09 06:48:13 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "質疑",
+        "未確認",
+        "背景／傳聞",
+        "官方未確認"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "Models that \"dropped\" this weekend:\n\nGPT-6.2 Sol: routed to \"some users,\" confirmed by nobody\nFable 5.5: \"the NDA is ending\"\nQwen 4: \"dropping today\" didn't\nGemini 4 Carbon: #1 on a leaderboard, not on any plan\n\nModels I can actually use today: the same ones as Friday.",
+      "media": [],
+      "metrics": {
+        "views": 431,
+        "likes": 3,
+        "bookmarks": 0,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119587019978396086",
+      "slug": "duoyun-77-396086",
+      "author": "duoyun_77",
+      "author_url": "https://x.com/duoyun_77",
+      "post_url": "https://x.com/duoyun_77/status/2119587019978396086",
+      "section": "rumor",
+      "title": "爆料敘事（引用舊預測帖）：下週四 11/12 發布＋Codex 已可用＋比 Opus 更強更便宜；附跑分／價格截圖，仍自標爆料",
+      "summary": "爆料敘事（引用舊預測帖）：下週四 11/12 發布＋Codex 已可用＋比 Opus 更強更便宜；附跑分／價格截圖，仍自標爆料。",
+      "created_at": "2026-11-09 08:25:00 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "爆料",
+        "發布預測",
+        "背景／傳聞",
+        "發布排期傳聞",
+        "官方未確認"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": false,
+      "text": "GPT-6.2 Sol 又有新爆料：下周四（11 月 12 日）发布\n\n部分 Codex 用户已能使用，还号称比 Opus 5.5 更强、更便宜。\n\n这次连跑分和价格截图都配齐了。\n\n虽然还是爆料，但这次有了更准确的发布日期和资料截图，可信度更强！\n\n如果它的实战表现真能击败 Opus 5.5 \n更强、更便宜、更快，你会马上换主力吗？",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 476,
+          "height": 606,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoxN76WUAAiQPM.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 499,
+          "height": 607,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWoxN8BWEAAcYaH.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 96,
+        "likes": 2,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119590031748890912",
+      "slug": "wellzhiai-890912",
+      "author": "wellzhiai",
+      "author_url": "https://x.com/wellzhiai",
+      "post_url": "https://x.com/wellzhiai/status/2119590031748890912",
+      "section": "rumor",
+      "title": "【近窗】引用 OpenAIDevs「Tomorrow.」猜測「明天發 GPT 6.2 Astra」——誤聯想標註：該官帖多為 Chromatic 掌機預告，非模",
+      "summary": "【近窗】引用 OpenAIDevs「Tomorrow.」猜測「明天發 GPT 6.2 Astra」——誤聯想標註：該官帖多為 Chromatic 掌機預告，非模型官宣。",
+      "created_at": "2026-11-09 08:36:58 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "誤聯想",
+        "Astra猜測",
+        "官方未確認",
+        "背景／傳聞"
+      ],
+      "seed_type": "引用",
+      "is_test_flag": false,
+      "text": "明天发布 GPT 6.2 Astra？？！",
+      "media": [],
+      "metrics": {
+        "views": 69,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 3,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119591077372174835",
+      "slug": "seirahisada-174835",
+      "author": "SeiraHisada",
+      "author_url": "https://x.com/SeiraHisada",
+      "post_url": "https://x.com/SeiraHisada/status/2119591077372174835",
+      "section": "rumor",
+      "title": "日文 AI 早刊：頂條 OpenAIDevs「Tomorrow.」＋社群 Three.js／6.2 Sol 路由報告",
+      "summary": "日文 AI 早刊：頂條 OpenAIDevs「Tomorrow.」＋社群 Three.js／6.2 Sol 路由報告。",
+      "created_at": "2026-11-09 08:41:07 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "彙整",
+        "背景／傳聞",
+        "綜述",
+        "誤聯想風險"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "【XGBN｜X発GrokBot調べ最新AIニュース 11/9朝刊】\n\n■トップ\nOpenAI Developersが動画とともに「Tomorrow.」とだけ投稿（約39万表示）。直前からXでは、ChatGPTで新モデル「GPT-6.2 Sol」に振り分けられたという報告と、Three.jsの3D作例が相次いでいます。\n\n■注目のニュース\n・【続報】Nvidia取締役会、Huang CEOが外国の情報工作の標的になったかを独立調査。Huang氏は社内メモで不倫を認め謝罪\n・英国、AI開発の減速を求める声を退ける\n・サーバー不足のAnthropic、古い建物で5〜10MWの電力を探す（The Information）\n・米専門サービス業の雇用、10月に7万人増（WSJ）\n・中国製ヒューマノイド「Theo」がチューリッヒのスーパーで夜勤、1時間に最大400点を品出し\n\n■技術・注目論文\n・未公開の「Qwen 4」早期版がGameFeel Benchで首位、Opus 5.5を上回る49.9点\n・清華大学×Moonshot AI「TCSExam」：GPT-6 Astraは定理の70%を証明、未解決予想は30問中0問\n・Amazon、ベンチマークの採点ミスを監査。直すと正解が96問中8〜9問→87〜91問に\n・指先1つ9ドルからの触覚センサー「PanoTac」、視覚＋触覚で成功率92%\n\n■AI活用\n・Coinbase CEO、分野ごとのリードと「首席補佐官」のエージェントで仕事を回す\n・11種のコーディングエージェントを1画面で扱う「MonoCode」\n・【ローカル】RTX 3090でQwen3.8-27Bを高速化、dspineでコード・数学は約125 tok/s\n・【ローカル】GPUなし・RAM 64GBで284BのDeepSeek-V4-Flash「llama-modchip」\n・【ローカル】写真1枚で動画の人物を入れ替えるComfyUIワークフロー\n\n■注目のAI作品\n・@0xKense1 2日で巨人ボスまで、ゼルダ風の森のゲーム。1万1700行を一行も書かずに作る進め方が圧巻\n・@neviannn ヤシの木と桟橋の、のんびり釣りゲームを1人で。道具ごとの役割分担が見事\n・@GhostlyXV 短編「VOLUNTEER」。一文で背筋がぞくりとする導入が秀逸\n・@Naonekozamurai Codex×MiniMax H3×Opus 5.5のMV第2弾。7段階のワークフロー公開もうれしい\n\n全記事と元ポスト、ポッドキャストはリプライのリンクから👇\n#XGBN #AIニュース",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 2264,
+          "height": 2646,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpM1OIa4AM2GwY.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 2264,
+          "height": 4028,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpM1mcaYAAf5tE.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1118,
+          "height": 4096,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpM2BYaUAIWMe-.jpg?name=large"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1081,
+          "height": 4096,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpM2YUaMAAFzTq.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 78,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119591380167340047",
+      "slug": "junp-li-340047",
+      "author": "Junp_Li",
+      "author_url": "https://x.com/Junp_Li",
+      "post_url": "https://x.com/Junp_Li/status/2119591380167340047",
+      "section": "rumor",
+      "title": "評論 Tomorrow. 與滿屏灰度測試，問能否拉下 Opus 5.5",
+      "summary": "評論 Tomorrow. 與滿屏灰度測試，問能否拉下 Opus 5.5。",
+      "created_at": "2026-11-09 08:42:19 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "評論",
+        "背景／跟風",
+        "無測試"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "OpenAI 开发者号半夜就发了一句「Tomorrow.」\n\n这两天满屏都在晒自己被灰度到 GPT-6.2 Sol 的测试。\n\n你们觉得这次能把 Opus 5.5 拉下来吗？👀",
+      "media": [],
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119591691351126037",
+      "slug": "jamisafari-126037",
+      "author": "jamisafari",
+      "author_url": "https://x.com/jamisafari",
+      "post_url": "https://x.com/jamisafari/status/2119591691351126037",
+      "section": "rumor",
+      "title": "【08:40後新帖】科普向日報把 OpenAIDevs「Tomorrow.」與「已有人拿到 GPT-6.2 Sol」並列；易誤聯想為模型官宣（實為 Chroma",
+      "summary": "【08:40後新帖】科普向日報把 OpenAIDevs「Tomorrow.」與「已有人拿到 GPT-6.2 Sol」並列；易誤聯想為模型官宣（實為 Chromatic 掌機預告已入庫）。",
+      "created_at": "2026-11-09 08:43:33 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "新窗",
+        "誤聯想",
+        "綜述",
+        "官方未確認",
+        "背景／傳聞"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "My quick takeaways from today's AI news, for people who don't code:\n\n1. OpenAI just posted one word: \"Tomorrow.\" Some people are already getting a new model called GPT-6.2 Sol. Looks like a big ChatGPT update this week\n2. Anthropic, the company behind Claude, is kicking off its push to go public. Funny timing, since talk of its value dropped from $2 trillion to about half in a month\n3. OpenAI says its AI solved one of the hardest math problems in the world. And it kept getting smarter the longer it was allowed to think\n4. SpaceX wants to build a $24 billion AI supercomputer in Texas. Yes, billion",
+      "media": [],
+      "metrics": {
+        "views": 90,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 2,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119591822930714837",
+      "slug": "-jayyy18-13k-714837",
+      "author": "_jayyy18_13k",
+      "author_url": "https://x.com/_jayyy18_13k",
+      "post_url": "https://x.com/_jayyy18_13k/status/2119591822930714837",
+      "section": "rumor",
+      "title": "詢問他人是否已拿到 GPT-6.2 Sol 存取",
+      "summary": "詢問他人是否已拿到 GPT-6.2 Sol 存取。",
+      "created_at": "2026-11-09 08:44:05 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "存取詢問",
+        "背景／跟風",
+        "無測試"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "just curious, has anyone else got access to GPT-6.2 Sol yet? Or is it still rolling out to a small group? 👀",
+      "media": [],
+      "metrics": {
+        "views": 53,
+        "likes": 6,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 4,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119592823838396497",
+      "slug": "xun403-396497",
+      "author": "xun403",
+      "author_url": "https://x.com/xun403",
+      "post_url": "https://x.com/xun403/status/2119592823838396497",
+      "section": "rumor",
+      "title": "自稱也被路由到 GPT-6.2 Sol（附圖）",
+      "summary": "自稱也被路由到 GPT-6.2 Sol（附圖）。 核對：使用者自稱路由到 6.2，截圖介面仍標 GPT-6.1 Sol Max，內容是 Fable 問答。",
+      "created_at": "2026-11-09 08:48:03 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "背景／跟風",
+        "自報路由",
+        "用戶側未獨立驗證"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "我也被路由到GPT-6.2 Sol了哈哈哈哈",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1485,
+          "height": 956,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpOXVhasAAJGcw.jpg?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119592983729508716",
+      "slug": "theeaglegon-508716",
+      "author": "TheEaglegon",
+      "author_url": "https://x.com/TheEaglegon",
+      "post_url": "https://x.com/TheEaglegon/status/2119592983729508716",
+      "section": "rumor",
+      "title": "回覆額度討論：若 6.2 Sol 更省額度，5 小時上限就不綁；推測 Sol 週二／Astra 週四，但 Tomorrow. 可能只對應一則官宣",
+      "summary": "回覆額度討論：若 6.2 Sol 更省額度，5 小時上限就不綁；推測 Sol 週二／Astra 週四，但 Tomorrow. 可能只對應一則官宣。",
+      "created_at": "2026-11-09 08:48:42 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "額度／成本",
+        "背景／傳聞",
+        "排期推測"
+      ],
+      "seed_type": "回覆",
+      "is_test_flag": false,
+      "text": "@TJeparskis If 6.2 Sol burns limits slower, the 5-hour cap stops binding. That is the real upgrade, not the model name. On your staggered call: Sol Tuesday, Astra Thursday fits OpenAI's pattern, but the 'Tomorrow.' teaser points to one announcement. Which one is it for?",
+      "media": [],
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    },
+    {
+      "id": "2119593430481596552",
+      "slug": "migrant2029-596552",
+      "author": "migrant2029",
+      "author_url": "https://x.com/migrant2029",
+      "post_url": "https://x.com/migrant2029/status/2119593430481596552",
+      "section": "rumor",
+      "title": "附圖自問「這算灰度到 gpt 6.2 sol 了嗎」——用戶側判定截圖",
+      "summary": "附圖自問「這算灰度到 gpt 6.2 sol 了嗎」——用戶側判定截圖。 核對：截圖裡模型回答目前記錄是 gpt-6.1-sol。這和「是不是 6.2」衝突，只可當使用者貼出的對話，不是作品。",
+      "created_at": "2026-11-09 08:50:28 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "灰度檢測",
+        "背景／跟風",
+        "自報路由",
+        "用戶側未獨立驗證"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": false,
+      "text": "这算是灰度到gpt 6.2 sol了吗",
+      "media": [
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1726,
+          "height": 708,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWpO4ihbsAA4EIt.png?name=large"
+        }
+      ],
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "id": "2119583000337785039",
+      "slug": "zshjzls-785039",
+      "author": "zshjzls",
+      "author_url": "https://x.com/zshjzls",
+      "post_url": "https://x.com/zshjzls/status/2119583000337785039",
+      "section": "excluded",
+      "title": "【非6.2 Sol】提 OpenAI LifeVal 基準：GPT-6 Astra 80.6% vs 一年前 GPT-5.2 49.3%",
+      "summary": "【非6.2 Sol】提 OpenAI LifeVal 基準：GPT-6 Astra 80.6% vs 一年前 GPT-5.2 49.3%。屬舊模型對照，非本次灰度話題。",
+      "created_at": "2026-11-09 08:09:01 Asia/Shanghai(UTC+8)",
+      "counts_as_video": false,
+      "seed_tags": [
+        "GPT-5.2舊模型",
+        "benchmark",
+        "非6.2Sol"
+      ],
+      "seed_type": "原帖",
+      "is_test_flag": true,
+      "text": "AI 考试考了满分，却连帮你订张机票都不会——这个毛病终于有人专门测了。\n\nOpenAI 11 月 2 日推出一个新基准 LifeVal，专门考 AI 当生活助手的能力：找托儿所、办政府手续、按预算订菜、给刚确诊糖尿病的父母配餐。\n\n最新模型 GPT-6 Astra 平均得分 80.6%，一年前 GPT-5.2 只有 49.3%。\n\n但分数是 OpenAI 自己打的，只测了自家模型，别人家的成绩单还没影。\n\n基准本身不解决问题，但它把“生活助手行不行”从感觉变成了分数。\n\n你最想让 AI 帮你干的一件日常琐事是什么？\n\n事实来源：OpenAI LifeVal 2026-11-02（日常任务基准；GPT-6 Astra 平均 80.6%，GPT-5.2 一年前 49.3%；例题：幼儿园 93.1%、防汛志愿者 98%、找房 100%、糖尿病配餐 90.4%）。",
+      "media": [],
+      "metrics": {
+        "views": 12,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
+        "source": "seed"
+      }
+    }
+  ]
+}
