@@ -9,19 +9,19 @@
     "seed_collected_at": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
     "seed_baseline_collected_at": "2026-11-09 08:40:28 Asia/Shanghai(UTC+8)",
     "media_verified_at": "2026-11-09 14:14:28 Asia/Shanghai(UTC+8)",
-    "seed_post_count": 112,
+    "seed_post_count": 117,
     "seed_test_flag_count": 71,
-    "gallery_count": 56,
-    "gallery_in_seed_count": 54,
+    "gallery_count": 61,
+    "gallery_in_seed_count": 59,
     "gallery_resolved_original_count": 2,
-    "prompt_file_count": 9,
+    "prompt_file_count": 10,
     "prompt_partial_count": 4,
     "context_count": 57,
     "excluded_count": 1,
     "category_counts": {
-      "3d": 23,
-      "character": 13,
-      "comparison": 20
+      "3d": 26,
+      "character": 14,
+      "comparison": 21
     },
     "category_labels": {
       "3d": "Three.js 與 3D 場景",
@@ -30,14 +30,15 @@
     },
     "reference_repo": "https://github.com/yihui-dev/awesome-opus5-5-videos",
     "reference_license": "MIT",
-    "completeness": "高訊號精選，不是全站完備。互動數字是種子蒐集當下的公開計數。2026-11-09 下午（Asia/Shanghai）語料在早晨 91 篇種子之外延伸；下午新增條目的互動數字是另一次快照。2026-11-10 早晨（Asia/Shanghai）又延伸一批；新畫廊條目的互動數字是 2026-11-10 08:15 Asia/Shanghai(UTC+8) 的 fxtwitter 公開快照。",
+    "completeness": "高訊號精選，不是全站完備。互動數字是種子蒐集當下的公開計數。2026-11-09 下午（Asia/Shanghai）語料在早晨 91 篇種子之外延伸；下午新增條目的互動數字是另一次快照。2026-11-10 早晨（Asia/Shanghai）又延伸一批；新畫廊條目的互動數字是 2026-11-10 08:15 Asia/Shanghai(UTC+8) 的 fxtwitter 公開快照。2026-11-10 中午（Asia/Shanghai）再延伸一批；這次新畫廊條目的互動數字是 2026-11-10 12:31:14 Asia/Shanghai(UTC+8) 的 fxtwitter 公開快照。",
     "extra_checked_urls": [
       "https://github.com/yihui-dev/awesome-opus5-5-videos",
       "https://x.com/Ananth7e/status/2119473497504428334",
       "https://x.com/JangXiin/status/2119412773293797526",
       "https://form-before-fame-3d.vvvvvvvvvashhh.chatgpt.site"
     ],
-    "extension_20261110_verified_at": "2026-11-10 08:15 Asia/Shanghai(UTC+8)"
+    "extension_20261110_verified_at": "2026-11-10 08:15 Asia/Shanghai(UTC+8)",
+    "extension_20261110_noon_verified_at": "2026-11-10 12:31:14 Asia/Shanghai(UTC+8)"
   },
   "gallery": [
     {
@@ -108,6 +109,12 @@
           "author": "RealFedeURU",
           "post_url": "https://x.com/RealFedeURU/status/2119779760226333037",
           "note": "正文只有 GPT-6.2 Sol。影片和兩張圖與雲上宮殿原帖相同。"
+        },
+        {
+          "id": "2119958350381060290",
+          "author": "ekcheungAI",
+          "post_url": "https://x.com/ekcheungAI/status/2119958350381060290",
+          "note": "轉述「有人分享」的單提示、單 HTML Three.js。影片 5.033 秒、1920×1080，畫面是同一座雲上宮殿，不是新測試。"
         }
       ]
     },
@@ -347,7 +354,15 @@
         "replies": 49,
         "snapshot": "2026-11-09 08:56:26 Asia/Shanghai(UTC+8)",
         "source": "seed"
-      }
+      },
+      "extra_sources": [
+        {
+          "id": "2119996427103318156",
+          "author": "leohuanfang",
+          "post_url": "https://x.com/leohuanfang/status/2119996427103318156",
+          "note": "用同一句提示詞把這支《時間的盡頭》和 Fable 5.2、Opus 5.5 放在一支新影片裡。上欄標 GPT-6.2 Sol，作者寫是 Khazix0918 的結果，不是另一件 Sol 作品。"
+        }
+      ]
     },
     {
       "id": "2119437812604838342",
@@ -1275,6 +1290,171 @@
       }
     },
     {
+      "id": "2119683294220390638",
+      "slug": "stargridcompass-390638",
+      "author": "Stargridcompass",
+      "author_url": "https://x.com/Stargridcompass",
+      "post_url": "https://x.com/Stargridcompass/status/2119683294220390638",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "海岸賽車",
+      "summary": "作者說這是 GPT-6.2 Sol 做出的賽車小遊戲，並自報耗時 16 分、5 小時限額用了 10%。預覽是網頁遊戲，左上角 APEX COAST，標題 COASTAL OVERDRIVE，海岸公路上有一排車。畫面沒有印出 GPT-6.2 Sol。提示詞沒有貼出。和 Opus 5.5 不相上下是作者判斷，這支影片裡沒有對照組。",
+      "created_at": "2026-11-09 14:47:33 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Opus 5.5"
+      ],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119682250472112128/img/SQ_4OvO-WOglyNXq.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 19.666,
+          "width": 2232,
+          "height": 1080,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119682250472112128/img/SQ_4OvO-WOglyNXq.jpg"
+        }
+      ],
+      "caveats": [
+        "作者自述為 GPT-6.2 Sol；官方未確認。",
+        "提示詞未公開。",
+        "「不相上下」是作者自述，畫面裡沒有並排。",
+        "16 分和 10% 額度是作者自報，未獨立驗證。",
+        "同作者稍後的帖 2119989441322529138 是另一支 Fable 5.2 賽車，不是這支。"
+      ],
+      "text": "GPT-6.2 Sol做出来的赛车小游戏。\n\n耗时16分，额度只使用了5小时限额的10%，这个效果我感觉非常好，性价比超高！\n\n能力和Opus5.5不相上下，但是价格是真的低呀。",
+      "metrics": {
+        "views": 11742,
+        "likes": 77,
+        "bookmarks": 12,
+        "reposts": 2,
+        "quotes": 2,
+        "replies": 36,
+        "snapshot": "2026-11-10 12:31:14 Asia/Shanghai(UTC+8)",
+        "source": "noon_20261110_public_snapshot"
+      }
+    },
+    {
+      "id": "2119984136731738255",
+      "slug": "cfenghub-738255",
+      "author": "cfenghub",
+      "author_url": "https://x.com/cfenghub",
+      "post_url": "https://x.com/cfenghub/status/2119984136731738255",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "體素埃菲爾鐵塔",
+      "summary": "作者把這支標成 GPT-6.2 Sol 實測第四波，說用 Three.js 把體素埃菲爾鐵塔寫進單頁 HTML，零外部資產、零貼圖，並自報體素精度 0.125、154 個施工模組、328 個體素小人。預覽是施工回放：標題「埃菲尔铁塔 · 施工回放」，島上的塔從骨架長到整座鐵塔，右側能看見程式碼。抽看的幀沒有印出 GPT-6.2 Sol。提示詞沒有貼出。和同一作者的湖畔古堡不是同一支媒體。",
+      "created_at": "2026-11-10 10:43:00 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "Three.js",
+        "單檔 HTML",
+        "體素"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119973892798427136/img/fXgRj-VthoLl7uoJ.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 41.429,
+          "width": 2880,
+          "height": 1504,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119973892798427136/img/fXgRj-VthoLl7uoJ.jpg"
+        }
+      ],
+      "caveats": [
+        "作者自述為 GPT-6.2 Sol；官方未確認。",
+        "提示詞未公開。",
+        "精度、模組數和小人數是作者自報，未獨立驗證。",
+        "抽看的幀沒有印出模型名字。"
+      ],
+      "text": "GPT-6.2 Sol 实测第四波 \nThree.js 代码直出 体素埃菲尔铁塔\n\n零外部资产、零贴图、单页HTML、逐帧回放\n体素颗粒精度直接干到0.125\n全场景154个施工模块、328个体素小人；\n\n这波铁塔终于是铁塔，不再是粗糙的方块塑料，\n方块边缘居然都有微倒角的处理，不同角度有光照反馈，物件接地处还有接触阴影，看着非常有份量感！ \n\nGPT6.2 直接拉高了 3D 体素的实用天花板，不仅能做静态观赏，同时已经能落地到工程动态复原、工业数字沙盘和教学演练！同时也拉高了GPT 6.2系列的能力上限，更多实用场景应用值得期待！",
+      "metrics": {
+        "views": 435,
+        "likes": 6,
+        "bookmarks": 1,
+        "reposts": 1,
+        "quotes": 0,
+        "replies": 4,
+        "snapshot": "2026-11-10 12:31:14 Asia/Shanghai(UTC+8)",
+        "source": "noon_20261110_public_snapshot"
+      }
+    },
+    {
+      "id": "2119999248594837956",
+      "slug": "yfeng2022-837956",
+      "author": "YFeng2022",
+      "author_url": "https://x.com/YFeng2022",
+      "post_url": "https://x.com/YFeng2022/status/2119999248594837956",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "3d",
+      "title": "榆溪村",
+      "summary": "作者貼出一座可互動的微縮村莊，頁面標題是「榆溪村」，英文寫 ELMBROOK AT DUSK。正文說選中的是 GPT-6.1 Sol Max，用了約 27 分鐘，並寫自己不知道是不是被路由到 GPT-6.2 Sol Max。附圖是 ChatGPT 工作階段，底部模型選單仍是 GPT-6.1 Sol Max，右側是同一座村莊。這不是已確認的 6.2 Sol 輸出。帖文那句 HTML 與 Three.js 的任務描述沒有標成完整提示詞；截圖氣泡裡還有更長的要求，折疊在「顯示更多」後面，看不全，所以 prompt 是 null。",
+      "created_at": "2026-11-10 11:43:03 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [
+        "HTML",
+        "Three.js"
+      ],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119998192678805504/img/vXhpjfqLgCfuuJip.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 39.6,
+          "width": 2556,
+          "height": 1218,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119998192678805504/img/vXhpjfqLgCfuuJip.jpg"
+        },
+        {
+          "type": "photo",
+          "duration_seconds": null,
+          "width": 1905,
+          "height": 1196,
+          "thumbnail_url": "https://pbs.twimg.com/media/HWu_lV4XwAA7BD9.jpg?name=large"
+        }
+      ],
+      "caveats": [
+        "作者選中的是 GPT-6.1 Sol Max，只猜想是否路由到 GPT-6.2 Sol Max。官方未確認。",
+        "附圖介面底部仍標 GPT-6.1 Sol Max。村莊畫面本身沒有印 6.2。",
+        "提示詞未完整公開。",
+        "27 分鐘是作者自報，未獨立驗證。",
+        "同作者的 2119990120422019231 是 Fable 5 檢測截圖，不是這支村莊。"
+      ],
+      "text": "绝了 我又惊呆了\n难以想象27分钟做的\n以往做一个视频起码2小时起步\n用 HTML + Three.js 制作一个精致、可交互的 3D 中世纪村庄，呈现夕阳下的微缩沙盘效果。\n选中的是GPT-6.1 Sol Max\n\n但不知道是不是所谓路由到GPT-6.2 Sol Max，我迫不及待的想跟大家分享，马上我用codex，那就是那个回答不了：别联网，你知道claude的Fable 5 的那个窗口用同意的提示词生成一个，看看是否有区别。\n\n#GPT #Threejs #AI #opus5 #OpenAI #GPT62sol #大模型 #codex #Fable5",
+      "metrics": {
+        "views": 212,
+        "likes": 2,
+        "bookmarks": 1,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 4,
+        "snapshot": "2026-11-10 12:31:14 Asia/Shanghai(UTC+8)",
+        "source": "noon_20261110_public_snapshot"
+      }
+    },
+    {
       "id": "2119471963790065987",
       "slug": "ananth7e-065987",
       "author": "Ananth7e",
@@ -1332,6 +1512,12 @@
           "author": "Mrjackuz",
           "post_url": "https://x.com/Mrjackuz/status/2119835929737384017",
           "note": "標題沿用 paints sam altman。影片與這支原帖相同。"
+        },
+        {
+          "id": "2119992761588076844",
+          "author": "okawa9870",
+          "post_url": "https://x.com/okawa9870/status/2119992761588076844",
+          "note": "正文只有「GPT 6.2 sol太猛了！」。影片 35 秒、1160×1200，肖像介面和參考照與這支畫 Sam Altman 相同，是重傳，不是新作品。"
         }
       ]
     },
@@ -1954,6 +2140,55 @@
         "replies": 21,
         "snapshot": "2026-11-10 08:15 Asia/Shanghai(UTC+8)",
         "source": "morning_20261110_public_snapshot"
+      }
+    },
+    {
+      "id": "2119997659381727300",
+      "slug": "cxiaoyiyi-727300",
+      "author": "CXiaoYiYi",
+      "author_url": "https://x.com/CXiaoYiYi",
+      "post_url": "https://x.com/CXiaoYiYi/status/2119997659381727300",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "character",
+      "title": "海岸鵜鶘騎車",
+      "summary": "作者說灰度到 gpt6.2 之後做了一隻鵜鶘騎車，並打算再和 Claude 比。預覽是一段約 11 秒的海岸鏡頭：白鵜鶘騎自行車沿著草地小路，背景是懸崖、拱橋和海。畫面沒有看到模型名字。正文沒有寫 Sol。這支和 @FiniYang 的紅車鵜鶘、@Aurora0x3f 的「借風而行」都不是同一支媒體。提示詞沒有貼出。",
+      "created_at": "2026-11-10 11:36:44 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [],
+      "tech": [],
+      "prompt": null,
+      "prompt_partial": false,
+      "prompt_note": null,
+      "prompt_file": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119997538208194560/img/hTl7lL14adABUtnr.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 11,
+          "width": 1280,
+          "height": 720,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119997538208194560/img/hTl7lL14adABUtnr.jpg"
+        }
+      ],
+      "caveats": [
+        "正文寫「灰度到gpt6.2」，沒有寫出 Sol。預覽也沒有模型名字。",
+        "作者自述；官方未確認。",
+        "提示詞未公開。",
+        "和 Claude 的對照作者說還打算做，這支影片裡沒有。"
+      ],
+      "text": "灰度到gpt6.2之后，做了一个鹈鹕骑车，看起来效果还行，今天刚开了一个claude的号，也打算对比测试下",
+      "metrics": {
+        "views": 85,
+        "likes": 1,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 1,
+        "replies": 0,
+        "snapshot": "2026-11-10 12:31:14 Asia/Shanghai(UTC+8)",
+        "source": "noon_20261110_public_snapshot"
       }
     },
     {
@@ -3079,6 +3314,58 @@
         "replies": 3,
         "snapshot": "2026-11-10 08:15 Asia/Shanghai(UTC+8)",
         "source": "morning_20261110_public_snapshot"
+      }
+    },
+    {
+      "id": "2119999927862325573",
+      "slug": "dagehahafo-325573",
+      "author": "dagehahafo",
+      "author_url": "https://x.com/dagehahafo",
+      "post_url": "https://x.com/dagehahafo/status/2119999927862325573",
+      "in_seed": true,
+      "surfaced_via": null,
+      "category": "comparison",
+      "title": "同一景區",
+      "summary": "作者用同一段提示詞，讓 GPT-6.2 Sol Max 和 Claude Fable 5.2 Extra High 各自做一座 Three.js 場景，並覺得兩邊像去了同一個景區。預覽上下分欄：上欄標 GPT-6.2 Sol (Max)，是夜色裡的燈火樓閣和一條發光的螺旋；下欄標 Claude Fable 5.2 (Extra High)，是紫色樹林和一團光。作者自報 Sol 用時 35 分 20 秒、Pro 100 週額度的 1%，Fable 用時 46 分 27 秒、週額度 13.5%。提示詞是帖文在「一輪直出」之後的那一段。",
+      "created_at": "2026-11-10 11:45:45 Asia/Shanghai(UTC+8)",
+      "attribution": "creator_reported",
+      "independently_reproduced": false,
+      "comparison_with": [
+        "Claude Fable 5.2"
+      ],
+      "tech": [
+        "Three.js"
+      ],
+      "prompt": "用 Three.js 创作一个壮观而唯美的 3D 场景，设计一种独特且统一的原创美术风格。建筑、道具和动植物都要精致耐看，远看有气势，近看有细节，建筑要错落成群，前中远景都有层次，画面元素丰富。最好加入一种与场景自然融合的奇妙现象，让人一眼记住。",
+      "prompt_partial": false,
+      "prompt_note": "帖文在「同一套提示詞，一輪直出：」之後接這一段，沒有再貼更長的版本。",
+      "prompt_file": "prompts/dagehahafo-325573.md",
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2119999321974157312/img/SVnY5h5yyjj7bZJj.jpg",
+      "preview_frame_reviewed": true,
+      "media": [
+        {
+          "type": "video",
+          "duration_seconds": 36,
+          "width": 2560,
+          "height": 2880,
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119999321974157312/img/SVnY5h5yyjj7bZJj.jpg"
+        }
+      ],
+      "caveats": [
+        "對照標籤來自作者，不是本庫復現。",
+        "時間和額度是作者自報，未獨立驗證。",
+        "官方未確認 GPT-6.2 Sol。"
+      ],
+      "text": "我让两个模型各自设计原创美术风格，结果怎么像去了同一个景区。\n\n建筑、配色，连奇观都差不多。\n\nGPT-6.2 Sol Max：用时 35 分 20 秒，消耗 Pro 100 周额度的 1%\nClaude Fable 5.2 Extra High：用时 46 分 27 秒，消耗 Pro 周额度的 13.5%，按 API 价格折算约 $8.79\n\n同一套提示词，一轮直出：\n\n用 Three.js 创作一个壮观而唯美的 3D 场景，设计一种独特且统一的原创美术风格。建筑、道具和动植物都要精致耐看，远看有气势，近看有细节，建筑要错落成群，前中远景都有层次，画面元素丰富。最好加入一种与场景自然融合的奇妙现象，让人一眼记住。",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "bookmarks": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "replies": 0,
+        "snapshot": "2026-11-10 12:31:14 Asia/Shanghai(UTC+8)",
+        "source": "noon_20261110_public_snapshot"
       }
     }
   ],
